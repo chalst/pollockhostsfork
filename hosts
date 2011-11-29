@@ -150,7 +150,7 @@
 #<hijack-sites>
 # The sites ads234.com and ads345.com -- These sites hijack internet explorer 
 # and redirect all requests through their servers. You may need to use spyware 
-# removal programs such as SpyBotS&D, AdAware or HijackThis to remove this 
+# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this 
 # nasty parasite. It's possible that blocking these sites using a hosts file 
 # may not work, in which case you should remove the following lines from this
 # file and try the tools listed above immediately. Don't forget to reboot 

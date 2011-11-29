@@ -1,0 +1,4 @@
+#source this file
+curl http://someonewhocares.org/hosts/hosts > hosts
+git add hosts
+git diff hosts
