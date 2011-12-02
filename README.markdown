@@ -4,7 +4,7 @@
 Because it was asked for on HN:
     	http://news.ycombinator.com/item?id=3291760
 
-It might be a worthwhile project if I am good about
+It might be a worthwhile project if I am good about keeping this in sync with Dan Pollock's authoritative hosts file.
 
 
 *What does do-download-hosts do?*
