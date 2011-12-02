@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 28th, 2011 at 14:17
+# Last updated: Dec 1st, 2011 at 19:21
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2717,6 +2717,7 @@
 127.0.0.1 1.adbrite.com
 127.0.0.1 1.httpads.com
 127.0.0.1 1.primaryads.com
+127.0.0.1 104231.dtiblog.com
 127.0.0.1 123.fluxads.com
 127.0.0.1 123specialgifts.com
 127.0.0.1 1und1.ivwbox.de
@@ -2800,6 +2801,7 @@
 127.0.0.1 ad.71i.de
 127.0.0.1 ad.abcnews.com
 127.0.0.1 ad.aboutwebservices.com
+127.0.0.1 ad.adfunky.com
 127.0.0.1 ad.adition.de
 127.0.0.1 ad.adition.net
 127.0.0.1 ad.adlegend.com
@@ -2810,6 +2812,8 @@
 127.0.0.1 ad.adorika.com
 127.0.0.1 ad.adperium.com
 127.0.0.1 ad.adriver.ru
+127.0.0.1 ad.adserve.com
+127.0.0.1 ad.adserverplus.com
 127.0.0.1 ad.adsmart.net
 127.0.0.1 ad.adtegrity.net
 127.0.0.1 ad.adtoma.com
@@ -2845,6 +2849,7 @@
 127.0.0.1 ad.garantiarkadas.com
 127.0.0.1 ad.gazeta.pl
 127.0.0.1 ad.goo.ne.jp
+127.0.0.1 ad.gr.doubleclick.net
 127.0.0.1 ad.gra.pl
 127.0.0.1 ad.greenmarquee.com
 127.0.0.1 ad.hankooki.com
@@ -2974,6 +2979,7 @@
 127.0.0.1 ad3.lbn.ru
 127.0.0.1 ad3.nationalreview.com
 127.0.0.1 ad3.rambler.ru
+127.0.0.1 ad4.adfarm1.adition.com
 127.0.0.1 ad4.bannerbank.ru
 127.0.0.1 ad4.lbn.ru
 127.0.0.1 ad4.speedbit.com
@@ -3212,6 +3218,7 @@
 127.0.0.1 ads.allsites.com
 127.0.0.1 ads.allvertical.com
 127.0.0.1 ads.amarillo.com
+127.0.0.1 ads.amateurmatch.com
 127.0.0.1 ads.amazingmedia.com
 127.0.0.1 ads.amgdgt.com
 127.0.0.1 ads.ami-admin.com
@@ -3398,6 +3405,7 @@
 127.0.0.1 ads.first-response.be
 127.0.0.1 ads.flabber.nl
 127.0.0.1 ads.flashgames247.com
+127.0.0.1 ads.fling.com
 127.0.0.1 ads.floridatoday.com
 127.0.0.1 ads.fool.com
 127.0.0.1 ads.forbes.com
@@ -4932,6 +4940,7 @@
 127.0.0.1 clicks.adultplex.com
 127.0.0.1 clicks.deskbabes.com
 127.0.0.1 clicks.totemcash.com
+127.0.0.1 clicks.toteme.com
 127.0.0.1 clicks.virtuagirl.com
 127.0.0.1 clicks.virtuagirlhd.com
 127.0.0.1 clicks.virtuaguyhd.com
@@ -4950,6 +4959,7 @@
 127.0.0.1 clkads.com
 127.0.0.1 clkuk.tradedoubler.com
 127.0.0.1 closeoutproductsreview.com
+127.0.0.1 cluster.adultadworld.com
 127.0.0.1 cluster3.adultadworld.com
 127.0.0.1 cm.the-n.overture.com
 127.0.0.1 cm1359.com
@@ -5004,6 +5014,7 @@
 127.0.0.1 consumerinfo.tt.omtrdc.net
 127.0.0.1 contaxe.com
 127.0.0.1 content.ad-flow.com
+127.0.0.1 content.clipster.ws
 127.0.0.1 content.codelnet.com
 127.0.0.1 content.promoisland.net
 127.0.0.1 content.yieldmanager.edgesuite.net
@@ -5044,6 +5055,7 @@
 127.0.0.1 creative.adshuffle.com
 127.0.0.1 creative.ak.facebook.com
 127.0.0.1 creatives.livejasmin.com
+127.0.0.1 creatives.livejasmin.com   
 127.0.0.1 creatives.rgadvert.com
 127.0.0.1 creatrixads.com
 127.0.0.1 crediblegfj.info
@@ -5088,6 +5100,7 @@
 127.0.0.1 d7.zedo.com
 127.0.0.1 d8.zedo.com
 127.0.0.1 d9.zedo.com
+127.0.0.1 da.2000888.com
 127.0.0.1 da.feedsportal.com
 127.0.0.1 daily-saver.com
 127.0.0.1 darmowe-liczniki.info
@@ -5950,8 +5963,10 @@
 127.0.0.1 ns-vip1.hitbox.com
 127.0.0.1 ns-vip2.hitbox.com
 127.0.0.1 ns-vip3.hitbox.com
+127.0.0.1 ns1.lalibco.com
 127.0.0.1 ns1.primeinteractive.net
 127.0.0.1 ns2.hitbox.com
+127.0.0.1 ns2.lalibco.com
 127.0.0.1 ns2.primeinteractive.net
 127.0.0.1 nsads.hotwired.com
 127.0.0.1 nsads.us.publicus.com
@@ -6191,6 +6206,7 @@
 127.0.0.1 rcm-it.amazon.it
 127.0.0.1 re.kontera.com
 127.0.0.1 realads.realmedia.com
+127.0.0.1 realgfsbucks.com
 127.0.0.1 realmedia-a800.d4p.net# Scientific American
 127.0.0.1 realmedia.advance.net
 127.0.0.1 recreation-leisure-rewardpath.com
@@ -6311,6 +6327,7 @@
 127.0.0.1 search.addthis.com
 127.0.0.1 search.freeonline.com
 127.0.0.1 search.keywordblocks.com
+127.0.0.1 search.netseer.com
 127.0.0.1 searchportal.information.com
 127.0.0.1 searchwe.com
 127.0.0.1 seasonalsamplerspecials.com
@@ -6349,6 +6366,7 @@
 127.0.0.1 serve.prestigecasino.com
 127.0.0.1 servedby.adcombination.com
 127.0.0.1 servedby.advertising.com
+127.0.0.1 servedby.flashtalking.com
 127.0.0.1 servedby.netshelter.net
 127.0.0.1 servedby.precisionclick.com
 127.0.0.1 servedbyadbutler.com
@@ -6489,6 +6507,7 @@
 127.0.0.1 static.freenet.de
 127.0.0.1 static.groupy.co.nz
 127.0.0.1 static.hitfarm.com
+127.0.0.1 static.ifa.camads.net
 127.0.0.1 static.inplay.tubemogul.com
 127.0.0.1 static.pulse360.com
 127.0.0.1 static.scanscout.com
@@ -6606,6 +6625,7 @@
 127.0.0.1 track.vscash.com
 127.0.0.1 trackadvertising.net
 127.0.0.1 trackers.1st-affiliation.fr
+127.0.0.1 tracking.craktraffic.com
 127.0.0.1 tracking.edvisors.com
 127.0.0.1 tracking.eurowebaffiliates.com
 127.0.0.1 tracking.joker.com
@@ -6759,6 +6779,7 @@
 127.0.0.1 www.addthiscdn.com
 127.0.0.1 www.adengage.com
 127.0.0.1 www.adforum.com
+127.0.0.1 www.adfunkyserver.com
 127.0.0.1 www.adfusion.com
 127.0.0.1 www.adimages.beeb.com
 127.0.0.1 www.adireland.com
@@ -7043,6 +7064,7 @@
 127.0.0.1 www.freeshoppingprovider.com
 127.0.0.1 www.freeshoppingsource.com
 127.0.0.1 www.friendlyduck.com
+127.0.0.1 www.frontpagecash.com
 127.0.0.1 www.ftjcfx.com	#commission junction
 127.0.0.1 www.fusionbanners.com
 127.0.0.1 www.gameconsolerewards.com
