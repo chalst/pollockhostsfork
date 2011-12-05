@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 1st, 2011 at 19:21
+# Last updated: Dec 4th, 2011 at 03:31
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2794,6 +2794,7 @@
 127.0.0.1 actionsplash.com
 127.0.0.1 acvs.mediaonenetwork.net
 127.0.0.1 acvsrv.mediaonenetwork.net
+127.0.0.1 ad-audit.tubemogul.com
 127.0.0.1 ad-souk.com
 127.0.0.1 ad-uk.tiscali.com
 127.0.0.1 ad.360yield.com
@@ -5023,7 +5024,6 @@
 127.0.0.1 context3.kanoodle.com
 127.0.0.1 context5.kanoodle.com
 127.0.0.1 contextweb.com
-127.0.0.1 control.adap.tv
 127.0.0.1 conv.adengage.com
 127.0.0.1 conversion-pixel.invitemedia.com
 127.0.0.1 cookiecontainer.blox.pl
@@ -5568,6 +5568,7 @@
 127.0.0.1 img.sn00.net
 127.0.0.1 img.soulmate.com
 127.0.0.1 img4.cdn.adjuggler.com
+127.0.0.1 imgn.dt07.com
 127.0.0.1 imgserv.adbutler.com
 127.0.0.1 imp.partner2profit.com
 127.0.0.1 impact.cossette-webpact.com
@@ -5775,7 +5776,6 @@
 127.0.0.1 loading321.com
 127.0.0.1 loadm.exelator.com
 127.0.0.1 local.promoisland.net
-127.0.0.1 log.adap.tv
 127.0.0.1 log.feedjit.com
 127.0.0.1 log.olark.com
 127.0.0.1 logc252.xiti.com
@@ -5867,6 +5867,7 @@
 127.0.0.1 metrics.sfr.fr
 127.0.0.1 mf.sitescout.com
 127.0.0.1 mg.dt00.net
+127.0.0.1 mgid.com
 127.0.0.1 mi.adinterax.com
 127.0.0.1 microsof.wemfbox.ch
 127.0.0.1 mightymagoo.com
@@ -6137,6 +6138,7 @@
 127.0.0.1 pl.bbelements.com
 127.0.0.1 plasmatv4free.com
 127.0.0.1 plasmatvreward.com
+127.0.0.1 playtime.tubemogul.com
 127.0.0.1 pntm-images.adbureau.net
 127.0.0.1 pntm.adbureau.net
 127.0.0.1 pol.bbelements.com
@@ -6452,7 +6454,6 @@
 127.0.0.1 somethingawful.crwdcntrl.net
 127.0.0.1 sonycomputerentertai.tt.omtrdc.net
 127.0.0.1 soongu.info
-127.0.0.1 sp.ltassrv.com
 127.0.0.1 spanids.dictionary.com
 127.0.0.1 spanids.thesaurus.com
 127.0.0.1 spc.cekfmeoejdbfcfichgbfcgjf.vast2as3.glammedia-pubnet.northamerica.telemetryverification.net
@@ -6508,7 +6509,6 @@
 127.0.0.1 static.groupy.co.nz
 127.0.0.1 static.hitfarm.com
 127.0.0.1 static.ifa.camads.net
-127.0.0.1 static.inplay.tubemogul.com
 127.0.0.1 static.pulse360.com
 127.0.0.1 static.scanscout.com
 127.0.0.1 static.vpptechnologies.com
@@ -6549,11 +6549,11 @@
 127.0.0.1 syn.verticalacuity.com
 127.0.0.1 synad.nuffnang.com.sg
 127.0.0.1 synad2.nuffnang.com.cn
-127.0.0.1 sync.adap.tv
 127.0.0.1 sync.mathtag.com
 127.0.0.1 syndicated.mondominishows.com
 127.0.0.1 syndication.exoclick.com
 127.0.0.1 sysadmin.map24.com
+127.0.0.1 t-ads.adap.tv
 127.0.0.1 t.cpmadvisors.com
 127.0.0.1 t1.adserver.com
 127.0.0.1 t4.liverail.com
@@ -6656,6 +6656,7 @@
 127.0.0.1 tvshowsnow.tvmax.hop.clickbank.net
 127.0.0.1 tw.adserver.yahoo.com
 127.0.0.1 twnads.weather.ca # Canadian Weather Network
+127.0.0.1 u-ads.adap.tv
 127.0.0.1 uac.advertising.com
 127.0.0.1 uav.tidaltv.com
 127.0.0.1 uc.csc.adserver.yahoo.com
@@ -6690,6 +6691,7 @@
 127.0.0.1 vads.adbrite.com
 127.0.0.1 van.ads.link4ads.com
 127.0.0.1 vast.bp3845260.btrll.com
+127.0.0.1 vast.tubemogul.com
 127.0.0.1 vclick.adbrite.com
 127.0.0.1 ve.tscapeplay.com
 127.0.0.1 venus.goclick.com
@@ -6724,6 +6726,7 @@
 127.0.0.1 w1.webcompteur.com
 127.0.0.1 w10.centralmediaserver.com
 127.0.0.1 w11.centralmediaserver.com
+127.0.0.1 wahoha.com
 127.0.0.1 warp.crystalad.com
 127.0.0.1 wdm29.com
 127.0.0.1 web.adblade.com
@@ -7198,6 +7201,7 @@
 127.0.0.1 www.medical-rewardpath.com
 127.0.0.1 www.merchantapp.com
 127.0.0.1 www.merlin.co.il
+127.0.0.1 www.mgid.com
 127.0.0.1 www.mightymagoo.com
 127.0.0.1 www.mktg-offer.com
 127.0.0.1 www.mlntracker.com
