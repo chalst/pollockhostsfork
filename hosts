@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 4th, 2011 at 03:31
+# Last updated: Dec 5th, 2011 at 12:46
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1206,6 +1206,7 @@
 127.0.0.1 vsii.spindox.net
 127.0.0.1 w1.tcr112.tynt.com
 127.0.0.1 warlog.info
+127.0.0.1 wau.tynt.com
 127.0.0.1 web-counter.5u.com
 127.0.0.1 web1.realtracker.com
 127.0.0.1 web2.realtracker.com
@@ -2774,8 +2775,12 @@
 127.0.0.1 a01.gestionpub.com
 127.0.0.1 a1.greenadworks.net
 127.0.0.1 a1.interclick.com
+127.0.0.1 a2.websponsors.com
 127.0.0.1 a200.yieldoptimizer.com
 127.0.0.1 a3.suntimes.com
+127.0.0.1 a3.websponsors.com
+127.0.0.1 a4.websponsors.com
+127.0.0.1 a5.websponsors.com
 127.0.0.1 aa.newsblock.dt00.net
 127.0.0.1 aads.treehugger.com
 127.0.0.1 aams1.aim4media.com
@@ -3051,6 +3056,7 @@
 127.0.0.1 adimg.activeadv.net
 127.0.0.1 adimg.com.com
 127.0.0.1 adincl.gopher.com
+127.0.0.1 adipics.com
 127.0.0.1 adireland.com
 127.0.0.1 adj1.thruport.com
 127.0.0.1 adj10.thruport.com
@@ -3230,6 +3236,7 @@
 127.0.0.1 ads.apn.co.nz
 127.0.0.1 ads.apn.co.za
 127.0.0.1 ads.appleinsider.com
+127.0.0.1 ads.arcadechain.com
 127.0.0.1 ads.aroundtherings.com
 127.0.0.1 ads.as4x.tmcs.net
 127.0.0.1 ads.as4x.tmcs.ticketmaster.ca
@@ -3548,6 +3555,7 @@
 127.0.0.1 ads.mediamayhemcorp.com
 127.0.0.1 ads.mediaodyssey.com
 127.0.0.1 ads.mediaturf.net
+127.0.0.1 ads.mefeedia.com
 127.0.0.1 ads.megaproxy.com
 127.0.0.1 ads.metblogs.com
 127.0.0.1 ads.mgnetwork.com
@@ -4496,6 +4504,7 @@
 127.0.0.1 ak.p.openx.net
 127.0.0.1 aka-cdn-ns.adtechus.com
 127.0.0.1 akaads-espn.starwave.com
+127.0.0.1 akamai.invitemedia.com
 127.0.0.1 ako.cc
 127.0.0.1 al1.sharethis.com
 127.0.0.1 all.orfr.adgtw.orangeads.fr
@@ -4728,6 +4737,7 @@
 127.0.0.1 bid.openx.net
 127.0.0.1 bidclix.net
 127.0.0.1 bidsystem.com
+127.0.0.1 bidtraffic.com
 127.0.0.1 bidvertiser.com
 127.0.0.1 bigads.guj.de
 127.0.0.1 bigbrandpromotions.com
@@ -4768,6 +4778,7 @@
 127.0.0.1 brandsurveypanel.com
 127.0.0.1 bravo.israelinfo.ru
 127.0.0.1 broadent.vo.llnwd.net
+127.0.0.1 brokertraffic.com
 127.0.0.1 bs.israelinfo.ru
 127.0.0.1 bs.serving-sys.com	#eyeblaster.com
 127.0.0.1 bsads.looksmart.com
@@ -4777,8 +4788,10 @@
 127.0.0.1 burns.adtech.us
 127.0.0.1 bus-offer.com
 127.0.0.1 business-rewardpath.com
+127.0.0.1 buttcandy.com
 127.0.0.1 buttons.googlesyndication.com
 127.0.0.1 buzzbox.buzzfeed.com
+127.0.0.1 bwp.lastfm.com.com
 127.0.0.1 c.actiondesk.com
 127.0.0.1 c.adroll.com
 127.0.0.1 c.ar.msn.com
@@ -4908,6 +4921,7 @@
 127.0.0.1 chainsawoffer.com
 127.0.0.1 checkintocash.data.7bpeople.com
 127.0.0.1 cherryhi.app.ur.gcion.com
+127.0.0.1 chkpt.zdnet.com
 127.0.0.1 choicedealz.com
 127.0.0.1 choicesurveypanel.com
 127.0.0.1 christianbusinessadvertising.com
@@ -5102,6 +5116,7 @@
 127.0.0.1 d9.zedo.com
 127.0.0.1 da.2000888.com
 127.0.0.1 da.feedsportal.com
+127.0.0.1 dads.new.digg.com
 127.0.0.1 daily-saver.com
 127.0.0.1 darmowe-liczniki.info
 127.0.0.1 dart.chron.com
@@ -5116,6 +5131,7 @@
 127.0.0.1 delb.mspaceads.com
 127.0.0.1 delivery.adyea.com
 127.0.0.1 delivery.trafficjunky.net
+127.0.0.1 delivery.w00tads.com
 127.0.0.1 demr.mspaceads.com
 127.0.0.1 demr.opt.fimserve.com
 127.0.0.1 desb.mspaceads.com
@@ -5135,6 +5151,7 @@
 127.0.0.1 dinoadserver2.roka.net
 127.0.0.1 directleads.com
 127.0.0.1 directpowerrewards.com
+127.0.0.1 dirtyrhino.com
 127.0.0.1 discount-savings-more.com
 127.0.0.1 discoverecommerce.tt.omtrdc.net
 127.0.0.1 display.gestionpub.com
@@ -5669,7 +5686,6 @@
 127.0.0.1 js.adserverpub.com
 127.0.0.1 js.adsonar.com
 127.0.0.1 js.hotkeys.com
-127.0.0.1 js.revsci.net
 127.0.0.1 js.selectornews.com
 127.0.0.1 js.smi2.ru
 127.0.0.1 js.tongji.linezing.com
@@ -5865,6 +5881,7 @@
 127.0.0.1 meter-svc.nytimes.com
 127.0.0.1 metrics.natmags.co.uk
 127.0.0.1 metrics.sfr.fr
+127.0.0.1 metrics.target.com
 127.0.0.1 mf.sitescout.com
 127.0.0.1 mg.dt00.net
 127.0.0.1 mgid.com
@@ -5935,6 +5952,7 @@
 127.0.0.1 netpalnow.com
 127.0.0.1 netshelter.adtrix.com
 127.0.0.1 netspiderads2.indiatimes.com
+127.0.0.1 netsponsors.com
 127.0.0.1 network-ca.247realmedia.com
 127.0.0.1 network.realmedia.com
 127.0.0.1 network.realtechnetwork.net
@@ -6135,6 +6153,7 @@
 127.0.0.1 pix522.adtech.us
 127.0.0.1 pixel.everesttech.net
 127.0.0.1 pixel.quantserve.com
+127.0.0.1 pixel.sitescout.com
 127.0.0.1 pl.bbelements.com
 127.0.0.1 plasmatv4free.com
 127.0.0.1 plasmatvreward.com
@@ -6177,6 +6196,8 @@
 127.0.0.1 publicidades.redtotalonline.com
 127.0.0.1 publicis.adcentriconline.com
 127.0.0.1 publishers.adscholar.com
+127.0.0.1 publishers.bidtraffic.com
+127.0.0.1 publishers.brokertraffic.com
 127.0.0.1 publishing.kalooga.com
 127.0.0.1 pubshop.img.uol.com.br
 127.0.0.1 purgecolon.net
@@ -6361,6 +6382,7 @@
 127.0.0.1 select004.adtech.de
 127.0.0.1 select004.adtech.fr
 127.0.0.1 select004.adtech.us
+127.0.0.1 sergarius.popunder.ru
 127.0.0.1 serv.ad-rotator.com
 127.0.0.1 serv.adspeed.com
 127.0.0.1 serv2.ad-rotator.com
@@ -6403,6 +6425,7 @@
 127.0.0.1 services1.adtech.de
 127.0.0.1 services1.adtech.fr
 127.0.0.1 services1.adtech.us
+127.0.0.1 sexsponsors.com
 127.0.0.1 sexzavod.com
 127.0.0.1 sfads.osdn.com
 127.0.0.1 sg.adserver.yahoo.com
@@ -6431,6 +6454,7 @@
 127.0.0.1 sizzle-savings.com
 127.0.0.1 skgde.adocean.pl
 127.0.0.1 skill.skilljam.com
+127.0.0.1 smart-scripts.com
 127.0.0.1 smart.besonders.ru
 127.0.0.1 smartadserver
 127.0.0.1 smartadserver.com
@@ -6445,6 +6469,7 @@
 127.0.0.1 snipjs.answcdn.com
 127.0.0.1 sochr.com
 127.0.0.1 social.bidsystem.com
+127.0.0.1 softlinkers.popunder.ru
 127.0.0.1 sokrates.adtech.de
 127.0.0.1 sokrates.adtech.fr
 127.0.0.1 sokrates.adtech.us
@@ -6474,6 +6499,8 @@
 127.0.0.1 spinbox.techtracker.com
 127.0.0.1 sponsor1.com
 127.0.0.1 sponsors.behance.com
+127.0.0.1 sponsors.ezgreen.com
+127.0.0.1 sponsorships.net
 127.0.0.1 sports-bonuspath.com
 127.0.0.1 sports-fitness-rewardpath.com
 127.0.0.1 sports-offer.com
@@ -6582,6 +6609,7 @@
 127.0.0.1 textad.traficdublu.ro
 127.0.0.1 textads.madisonavenue.com
 127.0.0.1 tf.nexac.com
+127.0.0.1 tgpmanager.com
 127.0.0.1 the-path-gateway.com
 127.0.0.1 the-smart-stop.com
 127.0.0.1 theuseful.com
@@ -6632,6 +6660,7 @@
 127.0.0.1 tracking.keywordmax.com
 127.0.0.1 tracking.veoxa.com
 127.0.0.1 tradearabia.advertserve.com
+127.0.0.1 traffictraders.com
 127.0.0.1 traffprofit.com
 127.0.0.1 trafsearchonline.com
 127.0.0.1 traktum.com
@@ -6652,6 +6681,7 @@
 127.0.0.1 tste.startribune.com
 127.0.0.1 ttarget.adbureau.net
 127.0.0.1 ttuk.offers4u.mobi
+127.0.0.1 turnerapac.d1.sc.omtrdc.net
 127.0.0.1 tv2no.linkpulse.com
 127.0.0.1 tvshowsnow.tvmax.hop.clickbank.net
 127.0.0.1 tw.adserver.yahoo.com
@@ -6691,6 +6721,8 @@
 127.0.0.1 vads.adbrite.com
 127.0.0.1 van.ads.link4ads.com
 127.0.0.1 vast.bp3845260.btrll.com
+127.0.0.1 vast.bp3846806.btrll.com
+127.0.0.1 vast.bp3846885.btrll.com
 127.0.0.1 vast.tubemogul.com
 127.0.0.1 vclick.adbrite.com
 127.0.0.1 ve.tscapeplay.com
@@ -6766,6 +6798,7 @@
 127.0.0.1 www.7cnbcnews.com
 127.0.0.1 www.805m.com
 127.0.0.1 www.961.com
+127.0.0.1 www.a.websponsors.com
 127.0.0.1 www.abrogatesdv.info
 127.0.0.1 www.action.ientry.net
 127.0.0.1 www.actiondesk.com
@@ -6785,6 +6818,7 @@
 127.0.0.1 www.adfunkyserver.com
 127.0.0.1 www.adfusion.com
 127.0.0.1 www.adimages.beeb.com
+127.0.0.1 www.adipics.com
 127.0.0.1 www.adireland.com
 127.0.0.1 www.adjmps.com
 127.0.0.1 www.adjug.com
@@ -6817,6 +6851,7 @@
 127.0.0.1 www.adservtech.com
 127.0.0.1 www.adsinimages.com
 127.0.0.1 www.adsoftware.com
+127.0.0.1 www.adspics.com
 127.0.0.1 www.adstogo.com
 127.0.0.1 www.adstreams.org
 127.0.0.1 www.adtechus.com
@@ -6871,6 +6906,7 @@
 127.0.0.1 www.bargainbeautybuys.com
 127.0.0.1 www.bbelements.com
 127.0.0.1 www.bestshopperrewards.com
+127.0.0.1 www.bidtraffic.com
 127.0.0.1 www.bidvertiser.com
 127.0.0.1 www.bigbrandpromotions.com
 127.0.0.1 www.bigbrandrewards.com
@@ -6890,6 +6926,7 @@
 127.0.0.1 www.bostonsubwayoffer.com
 127.0.0.1 www.brandrewardcentral.com
 127.0.0.1 www.brandsurveypanel.com
+127.0.0.1 www.brokertraffic.com
 127.0.0.1 www.budsinc.com
 127.0.0.1 www.bugsbanner.it
 127.0.0.1 www.bulkclicks.com
@@ -6897,6 +6934,7 @@
 127.0.0.1 www.burstnet.com
 127.0.0.1 www.bus-offer.com
 127.0.0.1 www.business-rewardpath.com
+127.0.0.1 www.buttcandy.com
 127.0.0.1 www.buwobarun.cn
 127.0.0.1 www.buycheapadvertising.com
 127.0.0.1 www.buyhitscheap.com
@@ -6979,6 +7017,7 @@
 127.0.0.1 www.direc-tory.tk
 127.0.0.1 www.directnetadvertising.net
 127.0.0.1 www.directpowerrewards.com
+127.0.0.1 www.dirtyrhino.com
 127.0.0.1 www.discount-savings-more.com
 127.0.0.1 www.djugoogs.com
 127.0.0.1 www.dl-plugin.com
@@ -7304,6 +7343,7 @@
 127.0.0.1 www.securecontactinfo.com
 127.0.0.1 www.securerunner.com
 127.0.0.1 www.servedby.advertising.com
+127.0.0.1 www.sexsponsors.com
 127.0.0.1 www.share-server.com
 127.0.0.1 www.shareasale.com
 127.0.0.1 www.shc-rebates.com
@@ -7315,6 +7355,7 @@
 127.0.0.1 www.shoptosaveenergy.com
 127.0.0.1 www.simpli.fi
 127.0.0.1 www.sizzle-savings.com
+127.0.0.1 www.smart-scripts.com
 127.0.0.1 www.smartadserver.com
 127.0.0.1 www.smarttargetting.com
 127.0.0.1 www.smokersopinionpoll.com
@@ -7348,6 +7389,7 @@
 127.0.0.1 www.tcimg.com
 127.0.0.1 www.text-link-ads.com
 127.0.0.1 www.textbanners.net
+127.0.0.1 www.tgpmanager.com
 127.0.0.1 www.the-path-gateway.com
 127.0.0.1 www.the-smart-stop.com
 127.0.0.1 www.theuseful.com
@@ -7366,6 +7408,8 @@
 127.0.0.1 www.tqlkg.com		#commission junction
 127.0.0.1 www.trackadvertising.net
 127.0.0.1 www.tracklead.net
+127.0.0.1 www.traffictrader.net
+127.0.0.1 www.traffictraders.com
 127.0.0.1 www.trafsearchonline.com
 127.0.0.1 www.traktum.com
 127.0.0.1 www.travel-leisure-bonuspath.com
