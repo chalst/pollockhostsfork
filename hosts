@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 5th, 2011 at 12:46
+# Last updated: Dec 6th, 2011 at 21:29
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -300,6 +300,7 @@
 127.0.0.1 cashcounter.com
 127.0.0.1 cb1.counterbot.com
 127.0.0.1 cdxbin.vulnerap.com
+127.0.0.1 cf.addthis.com
 127.0.0.1 cgi.hotstat.nl
 127.0.0.1 cgi.sexlist.com
 127.0.0.1 cgicounter.onlinehome.de
@@ -817,6 +818,7 @@
 127.0.0.1 nht-2.extreme-dm.com
 127.0.0.1 nl.nedstatbasic.net
 127.0.0.1 nl.sitestat.com
+127.0.0.1 o.addthis.com
 127.0.0.1 oasc03049.247readmedia.com
 127.0.0.1 okcounter.com
 127.0.0.1 one.123counters.com
@@ -825,6 +827,7 @@
 127.0.0.1 ostats.mozilla.com
 127.0.0.1 other.xxxcounter.com
 127.0.0.1 out.true-counter.com
+127.0.0.1 p.addthis.com
 127.0.0.1 p.reuters.com
 127.0.0.1 partner.alerts.aol.com
 127.0.0.1 partners.pantheranetwork.com
@@ -5195,7 +5198,6 @@
 127.0.0.1 eddamedia.linkpulse.com
 127.0.0.1 edge.bnmla.com
 127.0.0.1 edge.quantserve.com
-127.0.0.1 edge.sharethis.com
 127.0.0.1 edirect.hotkeys.com
 127.0.0.1 edu-offer.com
 127.0.0.1 education-rewardpath.com
