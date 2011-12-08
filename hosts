@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 6th, 2011 at 21:29
+# Last updated: Dec 7th, 2011 at 15:06
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5900,6 +5900,7 @@
 127.0.0.1 mlntracker.com
 127.0.0.1 mm.admob.com
 127.0.0.1 mm.chitika.net
+127.0.0.1 mobile.xhamster.com
 127.0.0.1 mobularity.com
 127.0.0.1 mochibot.com
 127.0.0.1 mojofarm.mediaplex.com
@@ -7547,6 +7548,7 @@
 127.0.0.1 x.mochiads.com
 127.0.0.1 x86adserve006.adtech.de
 127.0.0.1 xads.zedo.com
+127.0.0.1 xhamster.com
 127.0.0.1 xlonhcld.xlontech.net
 127.0.0.1 xml.adtech.de
 127.0.0.1 xml.adtech.fr
