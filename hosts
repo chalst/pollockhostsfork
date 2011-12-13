@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 7th, 2011 at 15:06
+# Last updated: Dec 13th, 2011 at 14:02
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1436,9 +1436,6 @@
 127.0.0.1 cleanchain.net
 127.0.0.1 clien.net
 127.0.0.1 co8vd.cn
-127.0.0.1 col.stb.s-msn.com
-127.0.0.1 col.stc.s-msn.com
-127.0.0.1 col.stj.s-msn.com
 127.0.0.1 cra-arc-gc-ca.noads.biz
 127.0.0.1 custom3hurricanedigitalmedia.com
 127.0.0.1 dbios.org
@@ -7625,6 +7622,7 @@
 #<hitbox-sites>
 
 # hitbox.com web bugs
+127.0.0.1 .hitbox.com
 127.0.0.1 1cgi.hitbox.com
 127.0.0.1 2cgi.hitbox.com
 127.0.0.1 adminec1.hitbox.com
