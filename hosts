@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 13th, 2011 at 14:02
+# Last updated: Dec 17th, 2011 at 17:01
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -213,6 +213,7 @@
 127.0.0.1 abscbn.spinbox.net
 127.0.0.1 activity.serving-sys.com	#eyeblaster.com
 127.0.0.1 ad-logics.com
+127.0.0.1 adadvisor.net
 127.0.0.1 adclient.rottentomatoes.com
 127.0.0.1 adcodes.aim4media.com
 127.0.0.1 adcounter.globeandmail.com
@@ -242,6 +243,7 @@
 127.0.0.1 anm.intelli-direct.com
 127.0.0.1 ant.conversive.nl
 127.0.0.1 apac.rel.msn.com
+127.0.0.1 api.bizographics.com
 127.0.0.1 arbo.hit.gemius.pl
 127.0.0.1 au.track.decideinteractive.com
 127.0.0.1 au052.insightexpress.com
@@ -250,6 +252,7 @@
 127.0.0.1 banner.0catch.com
 127.0.0.1 banners.webcounter.com
 127.0.0.1 be.sitestat.com
+127.0.0.1 beacon-1.newrelic.com
 127.0.0.1 beacon.scorecardresearch.com
 127.0.0.1 beacons.hottraffic.nl
 127.0.0.1 best-search.cc	#spyware
@@ -267,6 +270,7 @@
 127.0.0.1 www.broadcastpc.tv
 127.0.0.1 bserver.blick.com
 127.0.0.1 bstats.adbrite.com
+127.0.0.1 by.optimost.com
 127.0.0.1 c.statcounter.com
 127.0.0.1 c.thecounter.de
 127.0.0.1 c1.statcounter.com
@@ -299,6 +303,8 @@
 127.0.0.1 ca.cqcounter.com
 127.0.0.1 cashcounter.com
 127.0.0.1 cb1.counterbot.com
+127.0.0.1 cdn.krxd.net
+127.0.0.1 cdn.taboolasyndication.com
 127.0.0.1 cdxbin.vulnerap.com
 127.0.0.1 cf.addthis.com
 127.0.0.1 cgi.hotstat.nl
@@ -496,6 +502,7 @@
 127.0.0.1 cz3.clickzs.com
 127.0.0.1 cz6.clickzs.com
 127.0.0.1 da.ce.bd.a9.top.list.ru
+127.0.0.1 da.newstogram.com
 127.0.0.1 data.coremetrics.com
 127.0.0.1 data.webads.co.nz
 127.0.0.1 data2.perf.overture.com
@@ -581,9 +588,11 @@
 127.0.0.1 ehg.fedex.com
 127.0.0.1 eitbglobal.ojdinteractiva.com
 127.0.0.1 emea.rel.msn.com
+127.0.0.1 engine.cmmeglobal.com
 127.0.0.1 enoratraffic.com
 127.0.0.1 entry-stats.huffingtonpost.com
 127.0.0.1 environmentalgraffiti.uk.intellitxt.com
+127.0.0.1 es.optimost.com
 127.0.0.1 fastcounter.bcentral.com
 127.0.0.1 fastcounter.com
 127.0.0.1 fastcounter.linkexchange.com
@@ -592,6 +601,7 @@
 127.0.0.1 fastcounter.onlinehoster.net
 127.0.0.1 fastwebcounter.com
 127.0.0.1 fcstats.bcentral.com
+127.0.0.1 fi.sitestat.com
 127.0.0.1 fl01.ct2.comclick.com
 127.0.0.1 flycast.com
 127.0.0.1 forbescollect.247realmedia.com
@@ -602,6 +612,7 @@
 127.0.0.1 freestats.com
 127.0.0.1 freewebcounter.com
 127.0.0.1 fs10.fusestats.com
+127.0.0.1 ft2.autonomycloud.com
 127.0.0.1 g-wizzads.net
 127.0.0.1 gapl.hit.gemius.pl
 127.0.0.1 gator.com
@@ -676,6 +687,8 @@
 127.0.0.1 jkearns.freestats.com
 127.0.0.1 journalism.uk.smarttargetting.com
 127.0.0.1 js.cybermonitor.com
+127.0.0.1 js.nyt.com
+127.0.0.1 js.revsci.net
 127.0.0.1 jsonlinecollect.247realmedia.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 kqzyfj.com
@@ -696,6 +709,7 @@
 127.0.0.1 log.hankooki.com
 127.0.0.1 log.statistici.ro
 127.0.0.1 log1.countomat.com
+127.0.0.1 log4.quintelligence.com
 127.0.0.1 log999.goo.ne.jp
 127.0.0.1 loga.xiti.com
 127.0.0.1 logc1.xiti.com
@@ -732,6 +746,7 @@
 127.0.0.1 mbox5.offermatica.com
 127.0.0.1 media.superstats.com
 127.0.0.1 media101.sitebrand.com
+127.0.0.1 mediacdn.disqus.com
 127.0.0.1 mediatrack.revenue.net
 127.0.0.1 metric.10best.com
 127.0.0.1 metric.infoworld.com
@@ -820,6 +835,7 @@
 127.0.0.1 nl.sitestat.com
 127.0.0.1 o.addthis.com
 127.0.0.1 oasc03049.247readmedia.com
+127.0.0.1 objects.tremormedia.com
 127.0.0.1 okcounter.com
 127.0.0.1 one.123counters.com
 127.0.0.1 oss-crules.marketscore.com
@@ -838,9 +854,13 @@
 127.0.0.1 perso.estat.com
 127.0.0.1 pf.tradedoubler.com
 127.0.0.1 pings.blip.tv
+127.0.0.1 pix02.revsci.net
+127.0.0.1 pix03.revsci.net
+127.0.0.1 pix04.revsci.net
 127.0.0.1 pmg.ad-logics.com
 127.0.0.1 pn2.adserver.yahoo.com
 127.0.0.1 pointclicktrack.com
+127.0.0.1 pong.qubitproducts.com
 127.0.0.1 postclick.adcentriconline.com
 127.0.0.1 postgazettecollect.247realmedia.com
 127.0.0.1 precisioncounter.com
@@ -967,6 +987,7 @@
 127.0.0.1 server8.opentracker.net
 127.0.0.1 server9.opentracker.net
 127.0.0.1 service.bfast.com
+127.0.0.1 services.krxd.net
 127.0.0.1 sexcounter.com
 127.0.0.1 seznam.hit.gemius.pl
 127.0.0.1 showads.pubmatic.com
@@ -994,6 +1015,7 @@
 127.0.0.1 ss.tiscali.it
 127.0.0.1 st.sageanalyst.net
 127.0.0.1 st1.hit.gemius.pl
+127.0.0.1 stags.peer39.net
 127.0.0.1 stat-counter.tass-online.ru
 127.0.0.1 stat.4u.pl
 127.0.0.1 stat.alibaba.com
@@ -1047,6 +1069,7 @@
 127.0.0.1 stats.fastcompany.com
 127.0.0.1 stats.foxcounter.com
 127.0.0.1 stats.free-rein.net
+127.0.0.1 stats.ft.com
 127.0.0.1 stats.gamestop.com
 127.0.0.1 stats.globesports.com
 127.0.0.1 stats.groupninetyfour.com
@@ -1161,10 +1184,12 @@
 127.0.0.1 tradedoubler.sonvideopro.com
 127.0.0.1 traffic-stats.streamsolutions.co.uk
 127.0.0.1 trax.gamespot.com
+127.0.0.1 trc.taboolasyndication.com
 127.0.0.1 trk.kissmetrics.com
 127.0.0.1 trk.tidaltv.com
 127.0.0.1 true-counter.com
 127.0.0.1 truehits1.gits.net.th
+127.0.0.1 tu.connect.wunderloop.net
 127.0.0.1 tynt.com
 127.0.0.1 u1817.16.spylog.com
 127.0.0.1 u3102.47.spylog.com
@@ -3058,6 +3083,7 @@
 127.0.0.1 adincl.gopher.com
 127.0.0.1 adipics.com
 127.0.0.1 adireland.com
+127.0.0.1 adition.com
 127.0.0.1 adj1.thruport.com
 127.0.0.1 adj10.thruport.com
 127.0.0.1 adj11.thruport.com
@@ -4355,6 +4381,7 @@
 127.0.0.1 adson.awempire.com
 127.0.0.1 adsonar.com
 127.0.0.1 adspaces.ero-advertising.com
+127.0.0.1 adspirit.net
 127.0.0.1 adspiro.pl
 127.0.0.1 adsr3pg.com.br
 127.0.0.1 adsrc.bankrate.com
@@ -4852,6 +4879,7 @@
 127.0.0.1 cacheserve.eurogrand.com
 127.0.0.1 cacheserve.prestigecasino.com
 127.0.0.1 califia.imaginemedia.com
+127.0.0.1 camgeil.com
 127.0.0.1 campaign.iitech.dk
 127.0.0.1 campaign.indieclick.com
 127.0.0.1 campaigns.f2.com.au
@@ -4862,6 +4890,7 @@
 127.0.0.1 cards.virtuagirlhd.com
 127.0.0.1 careers-rewardpath.com
 127.0.0.1 careers.canwestad.net
+127.0.0.1 carrier.bz
 127.0.0.1 cas.clickability.com
 127.0.0.1 casalemedia.com
 127.0.0.1 cashback.co.uk
@@ -4869,6 +4898,7 @@
 127.0.0.1 cashflowmarketing.com
 127.0.0.1 casino770.com
 127.0.0.1 catalinkcashback.com
+127.0.0.1 catchvid.info
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 ccas.clearchannel.com
 127.0.0.1 cdn.adigniter.org
@@ -5069,7 +5099,7 @@
 127.0.0.1 creative.adshuffle.com
 127.0.0.1 creative.ak.facebook.com
 127.0.0.1 creatives.livejasmin.com
-127.0.0.1 creatives.livejasmin.com   
+127.0.0.1 creatives.livejasmin.com 
 127.0.0.1 creatives.rgadvert.com
 127.0.0.1 creatrixads.com
 127.0.0.1 crediblegfj.info
@@ -6557,6 +6587,7 @@
 127.0.0.1 su.addthis.com
 127.0.0.1 subtracts.userplane.com
 127.0.0.1 sudokuwhiz.com
+127.0.0.1 sunmaker.com
 127.0.0.1 superbrewards.com
 127.0.0.1 support.sweepstakes.com
 127.0.0.1 supremeadsonline.com
