@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 17th, 2011 at 17:01
+# Last updated: Dec 20th, 2011 at 19:30
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -746,7 +746,6 @@
 127.0.0.1 mbox5.offermatica.com
 127.0.0.1 media.superstats.com
 127.0.0.1 media101.sitebrand.com
-127.0.0.1 mediacdn.disqus.com
 127.0.0.1 mediatrack.revenue.net
 127.0.0.1 metric.10best.com
 127.0.0.1 metric.infoworld.com
