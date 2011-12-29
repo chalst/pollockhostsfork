@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 20th, 2011 at 19:30
+# Last updated: Dec 24th, 2011 at 18:36
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1480,6 +1480,7 @@
 127.0.0.1 fromru.su
 127.0.0.1 ftdownload.com
 127.0.0.1 fu.golikeus.net			# Facebook trojan
+127.0.0.1 gamelights.ru
 127.0.0.1 gasasthe.freehostia.com
 127.0.0.1 gglcash4u.info	# twitter worm
 127.0.0.1 girlownedbypolicelike.blogspot.com	# Facebook trojan
@@ -5476,7 +5477,6 @@
 127.0.0.1 go2.hit.gemius.pl
 127.0.0.1 gofreegifts.com
 127.0.0.1 goody-garage.com
-127.0.0.1 googleadservices.com
 127.0.0.1 got2goshop.com
 127.0.0.1 goto.trafficmultiplier.com
 127.0.0.1 gozing.directtrack.com
@@ -7170,7 +7170,6 @@
 127.0.0.1 www.go-free-gifts.com
 127.0.0.1 www.gofreegifts.com
 127.0.0.1 www.goody-garage.com
-127.0.0.1 www.googleadservices.com
 127.0.0.1 www.gopopup.com
 127.0.0.1 www.grabbit-rabbit.com
 127.0.0.1 www.greasypalm.com
