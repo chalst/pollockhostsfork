@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 24th, 2011 at 18:36
+# Last updated: Dec 31st, 2011 at 15:55
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -143,8 +143,8 @@
 #   to some of your favourite sites with a single letter, instead of
 #   using the whole domain name
 # It is perhaps a better solution to use Favourites/Bookmarks instead.
-216.34.181.45   s        # slashdot.org
-74.125.127.105	g        # google.com
+#216.34.181.45   s        # slashdot.org
+#74.125.127.105	g        # google.com
 #</shortcut-examples>
 
 #<hijack-sites>
