@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 31st, 2011 at 15:55
+# Last updated: Jan 10th, 2012 at 22:38
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3013,6 +3013,7 @@
 127.0.0.1 ad4.adfarm1.adition.com
 127.0.0.1 ad4.bannerbank.ru
 127.0.0.1 ad4.lbn.ru
+127.0.0.1 ad4.liverail.com
 127.0.0.1 ad4.speedbit.com
 127.0.0.1 ad41.atlas.cz
 127.0.0.1 ad5.bannerbank.ru
@@ -3157,7 +3158,6 @@
 127.0.0.1 admax.quisma.com
 127.0.0.1 admedia.xoom.com
 127.0.0.1 admeld.com
-127.0.0.1 admin.brightcove.com
 127.0.0.1 admin.digitalacre.com
 127.0.0.1 admin.hotkeys.com
 127.0.0.1 admin.inq.com
