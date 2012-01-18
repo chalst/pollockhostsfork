@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 24th, 2011 at 18:36
+# Last updated: Jan 17th, 2012 at 04:23
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -143,8 +143,8 @@
 #   to some of your favourite sites with a single letter, instead of
 #   using the whole domain name
 # It is perhaps a better solution to use Favourites/Bookmarks instead.
-216.34.181.45   s        # slashdot.org
-74.125.127.105	g        # google.com
+#216.34.181.45   s        # slashdot.org
+#74.125.127.105	g        # google.com
 #</shortcut-examples>
 
 #<hijack-sites>
@@ -3013,6 +3013,7 @@
 127.0.0.1 ad4.adfarm1.adition.com
 127.0.0.1 ad4.bannerbank.ru
 127.0.0.1 ad4.lbn.ru
+127.0.0.1 ad4.liverail.com
 127.0.0.1 ad4.speedbit.com
 127.0.0.1 ad41.atlas.cz
 127.0.0.1 ad5.bannerbank.ru
@@ -3157,7 +3158,6 @@
 127.0.0.1 admax.quisma.com
 127.0.0.1 admedia.xoom.com
 127.0.0.1 admeld.com
-127.0.0.1 admin.brightcove.com
 127.0.0.1 admin.digitalacre.com
 127.0.0.1 admin.hotkeys.com
 127.0.0.1 admin.inq.com
@@ -3730,6 +3730,7 @@
 127.0.0.1 ads.schwabtrader.com
 127.0.0.1 ads.scifi.com
 127.0.0.1 ads.seattletimes.com
+127.0.0.1 ads.sfusion.com
 127.0.0.1 ads.shizmoo.com
 127.0.0.1 ads.shoppingads.com
 127.0.0.1 ads.shoutfile.com
@@ -4751,6 +4752,7 @@
 127.0.0.1 bbcdn.go.ihned.bbelements.com
 127.0.0.1 bbcdn.go.pl.bbelements.com
 127.0.0.1 bbnaut.bbelements.com
+127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bdnad1.bangornews.com
 127.0.0.1 bdv.bidvertiser.com
 127.0.0.1 beacons.helium.com
