@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 10th, 2012 at 22:38
+# Last updated: Jan 17th, 2012 at 04:23
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3730,6 +3730,7 @@
 127.0.0.1 ads.schwabtrader.com
 127.0.0.1 ads.scifi.com
 127.0.0.1 ads.seattletimes.com
+127.0.0.1 ads.sfusion.com
 127.0.0.1 ads.shizmoo.com
 127.0.0.1 ads.shoppingads.com
 127.0.0.1 ads.shoutfile.com
@@ -4751,6 +4752,7 @@
 127.0.0.1 bbcdn.go.ihned.bbelements.com
 127.0.0.1 bbcdn.go.pl.bbelements.com
 127.0.0.1 bbnaut.bbelements.com
+127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bdnad1.bangornews.com
 127.0.0.1 bdv.bidvertiser.com
 127.0.0.1 beacons.helium.com
