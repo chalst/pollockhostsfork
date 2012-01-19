@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 17th, 2012 at 04:23
+# Last updated: Jan 19th, 2012 at 04:06
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1597,6 +1597,7 @@
 127.0.0.1 themoneyclippodcast.com
 127.0.0.1 themusicnetwork.co.uk
 127.0.0.1 thinstall.abetterinternet.com
+127.0.0.1 tivvitter.com
 127.0.0.1 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 127.0.0.1 toolbarbest.biz
 127.0.0.1 toolbarbucks.biz
@@ -1718,6 +1719,7 @@
 127.0.0.1 yrwap.cn
 127.0.0.1 zettapetta.com
 127.0.0.1 zfotos.fromru.su
+127.0.0.1 zip.er.cz
 127.0.0.1 ztrf.net
 127.0.0.1 zviframe.biz
 #</malware-sites>
