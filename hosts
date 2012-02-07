@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Feb 4th, 2012 at 23:28
+# Last updated: Feb 6th, 2012 at 10:24
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1402,7 +1402,6 @@
 #<malware-sites>
 
 # sites with known trojans, phishing, or other malware
-127.0.0.1 /sousay.info
 127.0.0.1 09killspyware.com
 127.0.0.1 11398.onceedge.ru
 127.0.0.1 20-yrs-1.info
@@ -1590,6 +1589,7 @@
 127.0.0.1 sinera.org
 127.0.0.1 smile-angel.com
 127.0.0.1 software-wenc.co.cc
+127.0.0.1 sousay.info
 127.0.0.1 start.qip.ru
 127.0.0.1 superegler.net
 127.0.0.1 superprotection10.com
@@ -3958,6 +3958,7 @@
 127.0.0.1 ads18.hyperbanner.net
 127.0.0.1 ads19.focalink.com
 127.0.0.1 ads2.ad-flow.com
+127.0.0.1 ads2.adbrite.com
 127.0.0.1 ads2.advance.net
 127.0.0.1 ads2.advertwizard.com
 127.0.0.1 ads2.canoe.ca
@@ -5816,6 +5817,7 @@
 127.0.0.1 learning-offer.com
 127.0.0.1 legal-rewardpath.com
 127.0.0.1 leisure-offer.com
+127.0.0.1 lg.brandreachsys.com
 127.0.0.1 liberty.gedads.com
 127.0.0.1 link2me.ru
 127.0.0.1 link4ads.com
@@ -5893,6 +5895,7 @@
 127.0.0.1 media.espace-plus.net
 127.0.0.1 media.fairlink.ru
 127.0.0.1 media.funpic.de
+127.0.0.1 media.naked.com
 127.0.0.1 media.nk-net.pl
 127.0.0.1 media.ontarionorth.com
 127.0.0.1 media.popuptraffic.com
@@ -5940,6 +5943,7 @@
 127.0.0.1 mlntracker.com
 127.0.0.1 mm.admob.com
 127.0.0.1 mm.chitika.net
+127.0.0.1 mobile.juicyads.com
 127.0.0.1 mobile.xhamster.com
 127.0.0.1 mobularity.com
 127.0.0.1 mochibot.com
@@ -6015,6 +6019,7 @@
 127.0.0.1 nitrous.exitfuel.com
 127.0.0.1 nitrous.internetfuel.com
 127.0.0.1 nivendas.net
+127.0.0.1 nkcache.brandreachsys.com
 127.0.0.1 nl.adserver.yahoo.com
 127.0.0.1 no.adserver.yahoo.com
 127.0.0.1 nospartenaires.com
@@ -6205,6 +6210,7 @@
 127.0.0.1 pntm.adbureau.net
 127.0.0.1 pol.bbelements.com
 127.0.0.1 politicalopinionsurvey.com
+127.0.0.1 popadscdn.net
 127.0.0.1 popclick.net
 127.0.0.1 popunder.adsrevenue.net
 127.0.0.1 popunder.paypopup.com
@@ -6253,6 +6259,7 @@
 127.0.0.1 r.admob.com
 127.0.0.1 r.chitika.net
 127.0.0.1 r.reklama.biz
+127.0.0.1 r.turn.com
 127.0.0.1 r1-ads.ace.advertising.com
 127.0.0.1 rad.msn.com
 127.0.0.1 radaronline.advertserve.com
@@ -6441,6 +6448,7 @@
 127.0.0.1 server.as5000.com
 127.0.0.1 server.bittads.com
 127.0.0.1 server.cpmstar.com
+127.0.0.1 server.popads.net
 127.0.0.1 server01.popupmoney.com
 127.0.0.1 server2.as5000.com
 127.0.0.1 server2.mediajmp.com
@@ -6705,6 +6713,7 @@
 127.0.0.1 tracking.keywordmax.com
 127.0.0.1 tracking.veoxa.com
 127.0.0.1 tradearabia.advertserve.com
+127.0.0.1 trafficrevenue.net
 127.0.0.1 traffictraders.com
 127.0.0.1 traffprofit.com
 127.0.0.1 trafsearchonline.com
@@ -6714,6 +6723,7 @@
 127.0.0.1 traveller-offer.com
 127.0.0.1 traveller-offer.net
 127.0.0.1 travelncs.com
+127.0.0.1 trekmedia.net
 127.0.0.1 trendnews.com
 127.0.0.1 trk.alskeip.com
 127.0.0.1 trk.yadomedia.com
@@ -6778,6 +6788,7 @@
 127.0.0.1 videocop.com
 127.0.0.1 videoegg.adbureau.net
 127.0.0.1 videogamerewardscentral.com
+127.0.0.1 videos.fleshlight.com
 127.0.0.1 videos.video-loader.com
 127.0.0.1 videoslots.888.com
 127.0.0.1 view.atdmt.com
@@ -7453,6 +7464,7 @@
 127.0.0.1 www.tqlkg.com		#commission junction
 127.0.0.1 www.trackadvertising.net
 127.0.0.1 www.tracklead.net
+127.0.0.1 www.trafficrevenue.net
 127.0.0.1 www.traffictrader.net
 127.0.0.1 www.traffictraders.com
 127.0.0.1 www.trafsearchonline.com
