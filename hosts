@@ -1404,6 +1404,7 @@
 #<malware-sites>
 
 # sites with known trojans, phishing, or other malware
+127.0.0.1 /sousay.info
 127.0.0.1 09killspyware.com
 127.0.0.1 11398.onceedge.ru
 127.0.0.1 20-yrs-1.info
