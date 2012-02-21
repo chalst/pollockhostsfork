@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Feb 15th, 2012 at 02:23
+# Last updated: Feb 20th, 2012 at 00:29
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1481,6 +1481,7 @@
 127.0.0.1 feaecebook.com
 127.0.0.1 fengyixin.com
 127.0.0.1 filosvybfimpsv.ru.gg
+127.0.0.1 froling.bee.pl
 127.0.0.1 fromru.su
 127.0.0.1 ftdownload.com
 127.0.0.1 fu.golikeus.net			# Facebook trojan
@@ -1538,6 +1539,7 @@
 127.0.0.1 mail.cyberh.fr
 127.0.0.1 malware-live-pro-scanv1.com
 127.0.0.1 maxi4.firstvds.ru
+127.0.0.1 monkeyball.osa.pl
 127.0.0.1 murcia-ban.es
 127.0.0.1 mylike.co.uk				# Facebook trojan
 127.0.0.1 nactx.com
@@ -1657,6 +1659,7 @@
 127.0.0.1 www.feaecebook.com
 127.0.0.1 www.fictioncinema.com
 127.0.0.1 www.fischereszter.hu
+127.0.0.1 www.froling.bee.pl
 127.0.0.1 www.gns-consola.com
 127.0.0.1 www.goggle.com
 127.0.0.1 www.grouphappy.com
@@ -1675,6 +1678,7 @@
 127.0.0.1 www.lovecouple.ru
 127.0.0.1 www.lovetrust.ru
 127.0.0.1 www.mikras.nl
+127.0.0.1 www.monkeyball.osa.pl
 127.0.0.1 www.monsonis.net
 127.0.0.1 www.movie-port.ru
 127.0.0.1 www.mylike.co.uk			# Facebook trojan
