@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Feb 21st, 2012 at 09:00
+# Last updated: Feb 26th, 2012 at 16:40
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1728,6 +1728,7 @@
 127.0.0.1 xponlinescanner.com
 127.0.0.1 xvrxyzba253.hotmail.ru
 127.0.0.1 yrwap.cn
+127.0.0.1 zarozinski.info
 127.0.0.1 zettapetta.com
 127.0.0.1 zfotos.fromru.su
 127.0.0.1 zip.er.cz
@@ -5518,6 +5519,7 @@
 127.0.0.1 guptamedianetwork.com
 127.0.0.1 guru.sitescout.netdna-cdn.com
 127.0.0.1 gwallet.com
+127.0.0.1 gx-in-f109.1e100.net
 127.0.0.1 h-afnetwww.adshuffle.com
 127.0.0.1 halfords.ukrpts.net
 127.0.0.1 happydiscountspecials.com
@@ -6377,7 +6379,6 @@
 127.0.0.1 s.media-imdb.com
 127.0.0.1 s.megaclick.com
 127.0.0.1 s.tcimg.com
-127.0.0.1 s0.2mdn.net
 127.0.0.1 s0b.bluestreak.com
 127.0.0.1 s1.buysellads.com
 127.0.0.1 s1.cz.adocean.pl
@@ -7641,6 +7642,7 @@
 127.0.0.1 ypn-js.overture.com
 127.0.0.1 ysiu.freenation.com
 127.0.0.1 ytaahg.vo.llnwd.net
+127.0.0.1 yx-in-f108.1e100.net
 127.0.0.1 z.blogads.com
 127.0.0.1 z.ceotrk.com
 127.0.0.1 z1.adserver.com
