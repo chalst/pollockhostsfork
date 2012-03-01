@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Feb 26th, 2012 at 16:40
+# Last updated: Feb 29th, 2012 at 13:41
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -189,6 +189,7 @@
 127.0.0.1 cdn.fastclick.net	# sites. 
 #127.0.0.1 ebay.doubleclick.net		# may interfere with ebay
 #127.0.0.1 google-analytics.com			# breaks some sites
+#127.0.0.1 ssl.google-analytics.com
 #127.0.0.1 stat.livejournal.com		# There are reports that this may mess 
  					# up CSS on livejournal
 #127.0.0.1 stats.surfaid.ihost.com	# This has been known cause 
