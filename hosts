@@ -181,12 +181,15 @@
 127.0.0.1 sitefinder-idn.Verisign.com	# of trying to hijack mistyped
 					# URLs to their site. 
 
+#127.0.0.1 s0.2mdn.net		# This may interfere with some streaming 
+				# video on sites such as cbc.ca
 #127.0.0.1 ad.doubleclick.net   # This may interefere with www.sears.com
 				# and potentially other sites. 
 127.0.0.1 media.fastclick.net	# Likewise, this may interfere with some
 127.0.0.1 cdn.fastclick.net	# sites. 
 #127.0.0.1 ebay.doubleclick.net		# may interfere with ebay
 #127.0.0.1 google-analytics.com			# breaks some sites
+#127.0.0.1 ssl.google-analytics.com
 #127.0.0.1 stat.livejournal.com		# There are reports that this may mess 
  					# up CSS on livejournal
 #127.0.0.1 stats.surfaid.ihost.com	# This has been known cause 
@@ -1478,6 +1481,7 @@
 127.0.0.1 feaecebook.com
 127.0.0.1 fengyixin.com
 127.0.0.1 filosvybfimpsv.ru.gg
+127.0.0.1 froling.bee.pl
 127.0.0.1 fromru.su
 127.0.0.1 ftdownload.com
 127.0.0.1 fu.golikeus.net			# Facebook trojan
@@ -1535,6 +1539,7 @@
 127.0.0.1 mail.cyberh.fr
 127.0.0.1 malware-live-pro-scanv1.com
 127.0.0.1 maxi4.firstvds.ru
+127.0.0.1 monkeyball.osa.pl
 127.0.0.1 murcia-ban.es
 127.0.0.1 mylike.co.uk				# Facebook trojan
 127.0.0.1 nactx.com
@@ -1556,6 +1561,7 @@
 127.0.0.1 oj.likewut.net
 127.0.0.1 online-antispym4.com
 127.0.0.1 oo-na-na-pics.com
+127.0.0.1 ordersildenafil.com
 127.0.0.1 otsserver.com
 127.0.0.1 outerinfo.com
 127.0.0.1 paincake.yoll.net
@@ -1653,6 +1659,7 @@
 127.0.0.1 www.feaecebook.com
 127.0.0.1 www.fictioncinema.com
 127.0.0.1 www.fischereszter.hu
+127.0.0.1 www.froling.bee.pl
 127.0.0.1 www.gns-consola.com
 127.0.0.1 www.goggle.com
 127.0.0.1 www.grouphappy.com
@@ -1671,6 +1678,7 @@
 127.0.0.1 www.lovecouple.ru
 127.0.0.1 www.lovetrust.ru
 127.0.0.1 www.mikras.nl
+127.0.0.1 www.monkeyball.osa.pl
 127.0.0.1 www.monsonis.net
 127.0.0.1 www.movie-port.ru
 127.0.0.1 www.mylike.co.uk			# Facebook trojan
@@ -1704,6 +1712,7 @@
 127.0.0.1 www.upi6.pillsstore-c.com		# Facebook trojan
 127.0.0.1 www.uqz.com
 127.0.0.1 www.via99.org
+127.0.0.1 www.videolove.clanteam.com
 127.0.0.1 www.videostan.ru
 127.0.0.1 www.vippotexa.ru
 127.0.0.1 www.wantsfly.com
@@ -1720,6 +1729,7 @@
 127.0.0.1 xponlinescanner.com
 127.0.0.1 xvrxyzba253.hotmail.ru
 127.0.0.1 yrwap.cn
+127.0.0.1 zarozinski.info
 127.0.0.1 zettapetta.com
 127.0.0.1 zfotos.fromru.su
 127.0.0.1 zip.er.cz
@@ -5510,6 +5520,7 @@
 127.0.0.1 guptamedianetwork.com
 127.0.0.1 guru.sitescout.netdna-cdn.com
 127.0.0.1 gwallet.com
+127.0.0.1 gx-in-f109.1e100.net
 127.0.0.1 h-afnetwww.adshuffle.com
 127.0.0.1 halfords.ukrpts.net
 127.0.0.1 happydiscountspecials.com
@@ -5895,6 +5906,7 @@
 127.0.0.1 media.espace-plus.net
 127.0.0.1 media.fairlink.ru
 127.0.0.1 media.funpic.de
+127.0.0.1 media.markethealth.com
 127.0.0.1 media.naked.com
 127.0.0.1 media.nk-net.pl
 127.0.0.1 media.ontarionorth.com
@@ -5930,6 +5942,7 @@
 127.0.0.1 mf.sitescout.com
 127.0.0.1 mg.dt00.net
 127.0.0.1 mgid.com
+127.0.0.1 mhlnk.com
 127.0.0.1 mi.adinterax.com
 127.0.0.1 microsof.wemfbox.ch
 127.0.0.1 mightymagoo.com
@@ -6367,7 +6380,6 @@
 127.0.0.1 s.media-imdb.com
 127.0.0.1 s.megaclick.com
 127.0.0.1 s.tcimg.com
-127.0.0.1 s0.2mdn.net
 127.0.0.1 s0b.bluestreak.com
 127.0.0.1 s1.buysellads.com
 127.0.0.1 s1.cz.adocean.pl
@@ -7631,6 +7643,7 @@
 127.0.0.1 ypn-js.overture.com
 127.0.0.1 ysiu.freenation.com
 127.0.0.1 ytaahg.vo.llnwd.net
+127.0.0.1 yx-in-f108.1e100.net
 127.0.0.1 z.blogads.com
 127.0.0.1 z.ceotrk.com
 127.0.0.1 z1.adserver.com

@@ -4,7 +4,7 @@
 Because it was asked for on HN:
     	http://news.ycombinator.com/item?id=3291760
 
-It might be a worthwhile project if I am good about
+It might be a worthwhile project if I am good about keeping this in sync with Dan Pollock's authoritative hosts file.
 
 
 *What does do-download-hosts do?*
@@ -17,7 +17,7 @@ It is just shell commands, not a proper script, so you need to either source it,
     	> #Or sh do-download-hosts
 
 
-*The do-downloads-diff file won't download the hosts file*
+*Why doesn't do-download-hosts download the hosts file?*
 
 There are three preconditions that must be satisfied:
 
