@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mar 7th, 2012 at 08:52
+# Last updated: Mar 12th, 2012 at 07:57
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1113,6 +1113,7 @@
 127.0.0.1 stats1.corusradio.com
 127.0.0.1 stats1.in
 127.0.0.1 stats2.clicktracks.com
+127.0.0.1 stats2.newyorker.com
 127.0.0.1 stats2.rte.ie
 127.0.0.1 stats2.unrulymedia.com
 127.0.0.1 stats2.vanityfair.com
@@ -3789,6 +3790,7 @@
 127.0.0.1 ads.telegraaf.nl
 127.0.0.1 ads.telegraph.co.uk
 127.0.0.1 ads.the15thinternet.com
+127.0.0.1 ads.theawl.com
 127.0.0.1 ads.thebugs.ws
 127.0.0.1 ads.thecoolhunter.net
 127.0.0.1 ads.thecrimson.com
@@ -4626,6 +4628,7 @@
 127.0.0.1 asm2.z1.adserver.com
 127.0.0.1 asm3.z1.adserver.com
 127.0.0.1 asn.cunda.advolution.biz
+127.0.0.1 assets.igapi.com
 127.0.0.1 assets.percentmobile.com
 127.0.0.1 asv.nuggad.net
 127.0.0.1 at-adserver.alltop.com
@@ -4949,6 +4952,7 @@
 127.0.0.1 cdn.syn.verticalacuity.com
 127.0.0.1 cdn.udmserve.net
 127.0.0.1 cdn.undertone.com
+127.0.0.1 cdn.wg.uproxx.com
 127.0.0.1 cdn.zeusclicks.com
 127.0.0.1 cdn1.ads.mofos.com
 127.0.0.1 cdn1.eyewonder.com
@@ -6246,6 +6250,7 @@
 127.0.0.1 productopinionpanel.com
 127.0.0.1 productresearchpanel.com
 127.0.0.1 producttestpanel.com
+127.0.0.1 profile.uproxx.com
 127.0.0.1 promo.awempire.com
 127.0.0.1 promo.easy-dating.org
 127.0.0.1 promos.fling.com
@@ -6867,6 +6872,7 @@
 127.0.0.1 www.7bpeople.com
 127.0.0.1 www.7cnbcnews.com
 127.0.0.1 www.805m.com
+127.0.0.1 www.888casino.com
 127.0.0.1 www.961.com
 127.0.0.1 www.a.websponsors.com
 127.0.0.1 www.abrogatesdv.info
