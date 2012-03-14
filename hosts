@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mar 12th, 2012 at 07:57
+# Last updated: Mar 13th, 2012 at 16:39
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1620,6 +1620,7 @@
 127.0.0.1 toolbarweb.biz
 127.0.0.1 trafsearchonline.com
 127.0.0.1 trialreg.com
+127.0.0.1 tvshowslist.com
 127.0.0.1 twitter.login.kevanshome.org
 127.0.0.1 twitter.secure.bzpharma.net
 127.0.0.1 uawj.moqhixoz.cn
@@ -1711,6 +1712,7 @@
 127.0.0.1 www.thedatesafe.com			# Facebook trojan
 127.0.0.1 www.trafsearchonline.com
 127.0.0.1 www.trucktirehotline.com
+127.0.0.1 www.tvshowslist.com
 127.0.0.1 www.upi6.pillsstore-c.com		# Facebook trojan
 127.0.0.1 www.uqz.com
 127.0.0.1 www.via99.org
@@ -4745,6 +4747,7 @@
 127.0.0.1 banners.resultonline.com
 127.0.0.1 banners.rspworldwide.com
 127.0.0.1 banners.sextracker.com
+127.0.0.1 banners.spiceworks.com
 127.0.0.1 banners.thegridwebmaster.com
 127.0.0.1 banners.thestranger.com
 127.0.0.1 banners.thgimages.co.uk
@@ -6208,6 +6211,7 @@
 127.0.0.1 phpads.i-merge.net
 127.0.0.1 phpads.macbidouille.com
 127.0.0.1 phpadsnew.gamefolk.de
+127.0.0.1 phpadsnew.wn.com
 127.0.0.1 pick-savings.com
 127.0.0.1 pink.habralab.ru
 127.0.0.1 pix01.revsci.net
