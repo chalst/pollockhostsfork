@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mar 13th, 2012 at 16:39
+# Last updated: Mar 23th, 2012 at 10:46
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -840,6 +840,7 @@
 127.0.0.1 oasc03049.247readmedia.com
 127.0.0.1 objects.tremormedia.com
 127.0.0.1 okcounter.com
+127.0.0.1 omniture.theglobeandmail.com
 127.0.0.1 one.123counters.com
 127.0.0.1 oss-crules.marketscore.com
 127.0.0.1 oss-survey.marketscore.com
@@ -1101,6 +1102,7 @@
 127.0.0.1 stats.ssa.gov
 127.0.0.1 stats.superstats.com
 127.0.0.1 stats.telegraph.co.uk
+127.0.0.1 stats.thoughtcatalog.com
 127.0.0.1 stats.townnews.com
 127.0.0.1 stats.ultimate-webservices.com
 127.0.0.1 stats.unionleader.com
@@ -1472,6 +1474,7 @@
 127.0.0.1 dietpharmacyrx.net
 127.0.0.1 download.abetterinternet.com
 127.0.0.1 drc-group.net
+127.0.0.1 dubstep.onedumb.com
 127.0.0.1 e-kasa.w8w.pl
 127.0.0.1 en.likefever.org			# Facebook trojan
 127.0.0.1 enteryouremail.net
@@ -4960,6 +4963,7 @@
 127.0.0.1 cdn1.ads.mofos.com
 127.0.0.1 cdn1.eyewonder.com
 127.0.0.1 cdn1.rmgserving.com
+127.0.0.1 cdn1.xlightmedia.com
 127.0.0.1 cdn2.adsdk.com
 127.0.0.1 cdn2.amateurmatch.com
 127.0.0.1 cdn3.telemetryverification.net
@@ -5704,6 +5708,7 @@
 127.0.0.1 ipacc1.adtech.de
 127.0.0.1 ipacc1.adtech.fr
 127.0.0.1 ipacc1.adtech.us
+127.0.0.1 ipad2free4u.com
 127.0.0.1 ipdata.adtech.de
 127.0.0.1 ipdata.adtech.fr
 127.0.0.1 ipdata.adtech.us
@@ -5903,6 +5908,7 @@
 127.0.0.1 mbox2.offermatica.com
 127.0.0.1 mbox9.offermatica.com
 127.0.0.1 mds.centrport.net
+127.0.0.1 media.888.com
 127.0.0.1 media.adcentriconline.com
 127.0.0.1 media.adrevolver.com
 127.0.0.1 media.adrime.com
@@ -5965,7 +5971,6 @@
 127.0.0.1 mm.admob.com
 127.0.0.1 mm.chitika.net
 127.0.0.1 mobile.juicyads.com
-127.0.0.1 mobile.xhamster.com
 127.0.0.1 mobularity.com
 127.0.0.1 mochibot.com
 127.0.0.1 mojofarm.mediaplex.com
@@ -5983,6 +5988,7 @@
 127.0.0.1 msnbe-hp.metriweb.be
 127.0.0.1 mt58.mtree.com
 127.0.0.1 mu-in-f167.1e100.net
+127.0.0.1 mvonline.com
 127.0.0.1 mx.adserver.yahoo.com
 127.0.0.1 my-reward-channel.com
 127.0.0.1 my-rewardsvault.com
@@ -7625,7 +7631,6 @@
 127.0.0.1 x.mochiads.com
 127.0.0.1 x86adserve006.adtech.de
 127.0.0.1 xads.zedo.com
-127.0.0.1 xhamster.com
 127.0.0.1 xlonhcld.xlontech.net
 127.0.0.1 xml.adtech.de
 127.0.0.1 xml.adtech.fr
@@ -8153,6 +8158,7 @@
 127.0.0.1 oascentral.blogher.org
 127.0.0.1 oascentral.bostonherald.com
 127.0.0.1 oascentral.bostonphoenix.com
+127.0.0.1 oascentral.businessinsider.com
 127.0.0.1 oascentral.businessweek.com
 127.0.0.1 oascentral.businessweeks.com
 127.0.0.1 oascentral.buy.com
@@ -8236,6 +8242,7 @@
 127.0.0.1 oascentral.registerguard.com
 127.0.0.1 oascentral.registguard.com
 127.0.0.1 oascentral.riverfronttimes.com
+127.0.0.1 oascentral.salon.com
 127.0.0.1 oascentral.santacruzsentinel.com
 127.0.0.1 oascentral.sciam.com
 127.0.0.1 oascentral.scientificamerican.com
