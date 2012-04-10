@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mar 23th, 2012 at 10:46
+# Last updated: Apr 9th, 2012 at 12:33
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -516,6 +516,7 @@
 127.0.0.1 de.sitestat.com
 127.0.0.1 delivery.loopingclick.com
 127.0.0.1 didtheyreadit.com		# email bugs
+127.0.0.1 digistats.westjet.com
 127.0.0.1 dimeprice.com		# "spam bugs"
 127.0.0.1 directads.mcafee.com
 127.0.0.1 dpbolvw.net
@@ -753,6 +754,7 @@
 127.0.0.1 mediatrack.revenue.net
 127.0.0.1 metric.10best.com
 127.0.0.1 metric.infoworld.com
+127.0.0.1 metric.nationalgeographic.com
 127.0.0.1 metric.nwsource.com
 127.0.0.1 metric.starz.com
 127.0.0.1 metric.thenation.com
@@ -807,6 +809,7 @@
 127.0.0.1 metrics.thenation.com
 127.0.0.1 metrics.theweathernetwork.com
 127.0.0.1 metrics.ticketmaster.com
+127.0.0.1 metrics.tmz.com
 127.0.0.1 metrics.toyota.com
 127.0.0.1 metrics.tulsaworld.com
 127.0.0.1 metrics.washingtonpost.com
@@ -823,7 +826,7 @@
 127.0.0.1 mt122.mtree.com
 127.0.0.1 mtcount.channeladvisor.com
 127.0.0.1 mtrcs.popcap.com
-127.0.0.1 mtv.247realmediia.com
+127.0.0.1 mtv.247realmedia.com
 127.0.0.1 multi1.rmuk.co.uk
 127.0.0.1 mvs.mediavantage.de
 127.0.0.1 mvtracker.com
@@ -837,7 +840,7 @@
 127.0.0.1 nl.nedstatbasic.net
 127.0.0.1 nl.sitestat.com
 127.0.0.1 o.addthis.com
-127.0.0.1 oasc03049.247readmedia.com
+127.0.0.1 oasc03049.247realmedia.com
 127.0.0.1 objects.tremormedia.com
 127.0.0.1 okcounter.com
 127.0.0.1 omniture.theglobeandmail.com
@@ -1070,6 +1073,7 @@
 127.0.0.1 stats.epicurious.com
 127.0.0.1 stats.examiner.com
 127.0.0.1 stats.f-secure.com
+127.0.0.1 stats.fairmont.com
 127.0.0.1 stats.fastcompany.com
 127.0.0.1 stats.foxcounter.com
 127.0.0.1 stats.free-rein.net
@@ -1748,6 +1752,7 @@
 
 127.0.0.1 3ad.doubleclick.net
 127.0.0.1 ad-emea.doubleclick.net
+127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 ad-yt-bfp.doubleclick.net 
 127.0.0.1 ad.3au.doubleclick.net
 127.0.0.1 ad.ae.doubleclick.net
@@ -2158,6 +2163,7 @@
 #<red-sheriff-sites>
 
 # Red Sheriff and imrworldwide.com  -- server side tracking
+#127.0.0.1 secure-au.imrworldwide.com
 127.0.0.1 devfw.imrworldwide.com
 127.0.0.1 fe-au.imrworldwide.com
 127.0.0.1 fe1-au.imrworldwide.com
@@ -2173,7 +2179,6 @@
 127.0.0.1 ninemsn.imrworldwide.com
 127.0.0.1 rc-au.imrworldwide.com
 127.0.0.1 redsheriff.com
-127.0.0.1 secure-au.imrworldwide.com
 127.0.0.1 secure-jp.imrworldwide.com
 127.0.0.1 secure-nz.imrworldwide.com
 127.0.0.1 secure-uk.imrworldwide.com
@@ -2814,6 +2819,7 @@
 127.0.0.1 a.ligatus.com
 127.0.0.1 a.ligatus.de
 127.0.0.1 a.mktw.net
+127.0.0.1 a.prisacom.com
 127.0.0.1 a.rad.live.com
 127.0.0.1 a.rad.msn.com
 127.0.0.1 a.ss34.on9mail.com
@@ -3787,6 +3793,7 @@
 127.0.0.1 ads.sup.com
 127.0.0.1 ads.swiftnews.com
 127.0.0.1 ads.switchboard.com
+127.0.0.1 ads.tdcanadatrust.com
 127.0.0.1 ads.teamyehey.com
 127.0.0.1 ads.technoratimedia.com
 127.0.0.1 ads.techtv.com
@@ -4010,6 +4017,7 @@
 127.0.0.1 ads23.focalink.com
 127.0.0.1 ads24.focalink.com
 127.0.0.1 ads25.focalink.com
+127.0.0.1 ads2srv.com
 127.0.0.1 ads3.ad-flow.com
 127.0.0.1 ads3.adman.gr
 127.0.0.1 ads3.advance.net
@@ -6147,6 +6155,7 @@
 127.0.0.1 ozonemedia.adbureau.net
 127.0.0.1 p.ic.tynt.com
 127.0.0.1 p.profistats.net
+127.0.0.1 p.publico.es
 127.0.0.1 p0rnuha.com
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead1.googlesyndication.com
@@ -6689,6 +6698,7 @@
 127.0.0.1 text-link-ads.ientry.com
 127.0.0.1 textad.traficdublu.ro
 127.0.0.1 textads.madisonavenue.com
+127.0.0.1 textsrv.com
 127.0.0.1 tf.nexac.com
 127.0.0.1 tgpmanager.com
 127.0.0.1 the-path-gateway.com
@@ -6819,7 +6829,7 @@
 127.0.0.1 videos.fleshlight.com
 127.0.0.1 videos.video-loader.com
 127.0.0.1 videoslots.888.com
-127.0.0.1 view.atdmt.com
+127.0.0.1 view.atdmt.com	#This may interfere with downloading from Microsoft, MSDN and TechNet websites.
 127.0.0.1 view.avenuea.com
 127.0.0.1 view.binlayer.com
 127.0.0.1 view.iballs.a1.avenuea.com
@@ -6923,6 +6933,7 @@
 127.0.0.1 www.adreporting.com
 127.0.0.1 www.ads.joetec.net
 127.0.0.1 www.ads.revenue.net
+127.0.0.1 www.ads2srv.com
 127.0.0.1 www.adsentnetwork.com
 127.0.0.1 www.adserver-espnet.sportszone.net
 127.0.0.1 www.adserver.co.il
@@ -7474,6 +7485,7 @@
 127.0.0.1 www.tcimg.com
 127.0.0.1 www.text-link-ads.com
 127.0.0.1 www.textbanners.net
+127.0.0.1 www.textsrv.com
 127.0.0.1 www.tgpmanager.com
 127.0.0.1 www.the-path-gateway.com
 127.0.0.1 www.the-smart-stop.com
@@ -8123,6 +8135,7 @@
 127.0.0.1 oas.dispatch.com
 127.0.0.1 oas.foxnews.com
 127.0.0.1 oas.greensboro.com
+127.0.0.1 oas.guardian.co.uk
 127.0.0.1 oas.ibnlive.com
 127.0.0.1 oas.lee.net
 127.0.0.1 oas.nrjlink.fr
