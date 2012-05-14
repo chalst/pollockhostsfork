@@ -6,7 +6,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Apr 9th, 2012 at 12:33
+# Last updated: May 12th, 2012 at 11:46
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -76,66 +76,114 @@
 127.0.0.1 www.oralse.ca
 127.0.0.1 goat.cx
 127.0.0.1 www.goat.cx
-127.0.0.1 www.copyright-reform.info
-127.0.0.1 copyright-reform.info
-127.0.0.1 cshacks.partycat.us
-127.0.0.1 lemonparty.org
-127.0.0.1 nimp.org
-127.0.0.1 on.nimp.org
-127.0.0.1 sourmath.com
-127.0.0.1 2girls1finger.org
+127.0.0.1 1girl1pitcher.org
+127.0.0.1 1guy1cock.com
+127.0.0.1 1man1jar.org
+127.0.0.1 1man2needles.com
+127.0.0.1 1priest1nun.com
 127.0.0.1 2girls1cup-free.com
 127.0.0.1 2girls1cup.nl
-127.0.0.1 kids-in-sandbox.com
-127.0.0.1 OctopusGirl.com
-127.0.0.1 KidsInSandbox.info
-127.0.0.1 ScrollBelow.com
 127.0.0.1 2girls1cup.ws
-127.0.0.1 PainOlympics.info
-127.0.0.1 1man2needles.com
-127.0.0.1 ProlapseMan.com
-127.0.0.1 WalkTheDinosaur.com
-127.0.0.1 TheMacUser.org
-127.0.0.1 LolTrain.com
-127.0.0.1 FruitLauncher.com
-127.0.0.1 MilkFountain.com
-127.0.0.1 Homewares.org
-127.0.0.1 JapScat.org
-127.0.0.1 DadParty.com
-127.0.0.1 Hai2U.com
-127.0.0.1 BottleGuy.com
-127.0.0.1 Turdgasm.com
-127.0.0.1 VomitGirl.org
-127.0.0.1 1Priest1Nun.com
-127.0.0.1 BowlGirl.com
-127.0.0.1 EelSoup.net
-127.0.0.1 GoatseGirl.org
-127.0.0.1 ClownSong.com
-127.0.0.1 PhoneJapan.com
-127.0.0.1 WormGush.com
-127.0.0.1 WhipCrack.org
-127.0.0.1 FunnelChair.com
-127.0.0.1 LOLHello.com
-127.0.0.1 MudMonster.org
-127.0.0.1 NutAbuse.com
-127.0.0.1 SuckDude.com
-127.0.0.1 TubGirl.me
-127.0.0.1 LemonParty.biz
-127.0.0.1 1man1jar.org
-127.0.0.1 Meatspin.biz
-127.0.0.1 TheHomo.org
-127.0.0.1 Selfpwn.org
-127.0.0.1 Goatse.bz
-127.0.0.1 BlueWaffle.biz
-127.0.0.1 MerryHolidays.org
-127.0.0.1 HowToTroll.org
-127.0.0.1 2Girls1Finger.org
-127.0.0.1 2Guys1Stump.org
+127.0.0.1 2girls1finger.org
+127.0.0.1 2guys1stump.org
 127.0.0.1 3guys1hammer.ws
-127.0.0.1 1guy1cock.com
-127.0.0.1 1girl1pitcher.org
 127.0.0.1 4girlsfingerpaint.org
+127.0.0.1 bluewaffle.biz
+127.0.0.1 bottleguy.com
+127.0.0.1 bowlgirl.com
+127.0.0.1 clownsong.com
+127.0.0.1 copyright-reform.info
+127.0.0.1 cshacks.partycat.us
+127.0.0.1 dadparty.com
 127.0.0.1 donotwatch.org
+127.0.0.1 eelsoup.net
+127.0.0.1 fruitlauncher.com
+127.0.0.1 funnelchair.com
+127.0.0.1 goatse.bz
+127.0.0.1 goatsegirl.org
+127.0.0.1 hai2u.com
+127.0.0.1 homewares.org
+127.0.0.1 howtotroll.org
+127.0.0.1 japscat.org
+127.0.0.1 kids-in-sandbox.com
+127.0.0.1 kidsinsandbox.info
+127.0.0.1 lemonparty.biz
+127.0.0.1 lemonparty.org
+127.0.0.1 lolhello.com
+127.0.0.1 loltrain.com
+127.0.0.1 meatspin.biz
+127.0.0.1 merryholidays.org
+127.0.0.1 milkfountain.com
+127.0.0.1 mudmonster.org
+127.0.0.1 nimp.org
+127.0.0.1 nutabuse.com
+127.0.0.1 octopusgirl.com
+127.0.0.1 on.nimp.org
+127.0.0.1 painolympics.info
+127.0.0.1 phonejapan.com
+127.0.0.1 prolapseman.com
+127.0.0.1 scrollbelow.com
+127.0.0.1 selfpwn.org
+127.0.0.1 sourmath.com
+127.0.0.1 suckdude.com
+127.0.0.1 thehomo.org
+127.0.0.1 themacuser.org
+127.0.0.1 tubgirl.me
+127.0.0.1 turdgasm.com
+127.0.0.1 vomitgirl.org
+127.0.0.1 walkthedinosaur.com
+127.0.0.1 whipcrack.org
+127.0.0.1 wormgush.com
+127.0.0.1 www.1girl1pitcher.org
+127.0.0.1 www.1guy1cock.com
+127.0.0.1 www.1man1jar.org
+127.0.0.1 www.1man2needles.com
+127.0.0.1 www.1priest1nun.com
+127.0.0.1 www.2girls1cup.ws
+127.0.0.1 www.2girls1finger.org
+127.0.0.1 www.2guys1stump.org
+127.0.0.1 www.3guys1hammer.ws
+127.0.0.1 www.4girlsfingerpaint.org
+127.0.0.1 www.bluewaffle.biz
+127.0.0.1 www.bottleguy.com
+127.0.0.1 www.bowlgirl.com
+127.0.0.1 www.clownsong.com
+127.0.0.1 www.copyright-reform.info
+127.0.0.1 www.dadparty.com
+127.0.0.1 www.donotwatch.org
+127.0.0.1 www.eelsoup.net
+127.0.0.1 www.fruitlauncher.com
+127.0.0.1 www.funnelchair.com
+127.0.0.1 www.goatse.bz
+127.0.0.1 www.goatsegirl.org
+127.0.0.1 www.hai2u.com
+127.0.0.1 www.homewares.org
+127.0.0.1 www.howtotroll.org
+127.0.0.1 www.japscat.org
+127.0.0.1 www.kidsinsandbox.info
+127.0.0.1 www.lemonparty.biz
+127.0.0.1 www.lolhello.com
+127.0.0.1 www.loltrain.com
+127.0.0.1 www.meatspin.biz
+127.0.0.1 www.merryholidays.org
+127.0.0.1 www.milkfountain.com
+127.0.0.1 www.mudmonster.org
+127.0.0.1 www.nutabuse.com
+127.0.0.1 www.octopusgirl.com
+127.0.0.1 www.painolympics.info
+127.0.0.1 www.phonejapan.com
+127.0.0.1 www.prolapseman.com
+127.0.0.1 www.scrollbelow.com
+127.0.0.1 www.selfpwn.org
+127.0.0.1 www.suckdude.com
+127.0.0.1 www.thehomo.org
+127.0.0.1 www.themacuser.org
+127.0.0.1 www.tubgirl.me
+127.0.0.1 www.turdgasm.com
+127.0.0.1 www.vomitgirl.org
+127.0.0.1 www.walkthedinosaur.com
+127.0.0.1 www.whipcrack.org
+127.0.0.1 www.wormgush.com
 #</shock-sites>
 
 #<shortcut-examples>
@@ -243,6 +291,7 @@
 127.0.0.1 amateur.xxxcounter.com
 127.0.0.1 amer.hops.glbdns.microsoft.com
 127.0.0.1 amer.rel.msn.com
+127.0.0.1 analytics.msnbc.msn.com
 127.0.0.1 analytics.prx.org
 127.0.0.1 anm.intelli-direct.com
 127.0.0.1 ant.conversive.nl
@@ -764,6 +813,7 @@
 127.0.0.1 metrics.cbc.ca
 127.0.0.1 metrics.cleveland.com
 127.0.0.1 metrics.cnn.com
+127.0.0.1 metrics.csmonitor.com
 127.0.0.1 metrics.ctv.ca
 127.0.0.1 metrics.dallasnews.com
 127.0.0.1 metrics.elle.com
@@ -864,6 +914,7 @@
 127.0.0.1 pix02.revsci.net
 127.0.0.1 pix03.revsci.net
 127.0.0.1 pix04.revsci.net
+127.0.0.1 pixel.invitemedia.com
 127.0.0.1 pmg.ad-logics.com
 127.0.0.1 pn2.adserver.yahoo.com
 127.0.0.1 pointclicktrack.com
@@ -1061,6 +1112,7 @@
 127.0.0.1 stats.brides.com
 127.0.0.1 stats.buysellads.com
 127.0.0.1 stats.cafepress.com
+127.0.0.1 stats.canalblog.com
 127.0.0.1 stats.cartoonnetwork.com
 127.0.0.1 stats.channel4.com
 127.0.0.1 stats.clickability.com
@@ -1087,6 +1139,7 @@
 127.0.0.1 stats.independent.co.uk
 127.0.0.1 stats.indexstats.com
 127.0.0.1 stats.indextools.com
+127.0.0.1 stats.investors.com
 127.0.0.1 stats.iwebtrack.com
 127.0.0.1 stats.jippii.com
 127.0.0.1 stats.klsoft.com
@@ -1099,6 +1152,7 @@
 127.0.0.1 stats.nowpublic.com
 127.0.0.1 stats.paycounter.com
 127.0.0.1 stats.platinumbucks.com
+127.0.0.1 stats.popscreen.com
 127.0.0.1 stats.reinvigorate.net
 127.0.0.1 stats.resellerratings.com
 127.0.0.1 stats.revenue.net
@@ -1182,6 +1236,7 @@
 127.0.0.1 tracking.iol.co.za
 127.0.0.1 tracking.msadcenter.msn.com
 127.0.0.1 tracking.percentmobile.com
+127.0.0.1 tracking.publicidees.com
 127.0.0.1 tracking.quisma.com
 127.0.0.1 tracking.rangeonlinemedia.com
 127.0.0.1 tracking.searchmarketing.com
@@ -1445,6 +1500,7 @@
 127.0.0.1 articlefuns.cn
 127.0.0.1 articleidea.cn
 127.0.0.1 asianread.com
+127.0.0.1 autohipnose.com
 127.0.0.1 b.oix.com
 127.0.0.1 b.oix.net
 127.0.0.1 b.webwise.com
@@ -1453,6 +1509,7 @@
 127.0.0.1 binsservicesonline.info
 127.0.0.1 blackhat.be
 127.0.0.1 blenz-me.net
+127.0.0.1 bnvxcfhdgf.blogspot.com.es
 127.0.0.1 brunga.at	# Facebook phishing attempt
 127.0.0.1 bt.webwise.com
 127.0.0.1 bt.webwise.net
@@ -1599,6 +1656,7 @@
 127.0.0.1 securedliveuploads.com
 127.0.0.1 securityscan.us
 127.0.0.1 sexymarissa.net
+127.0.0.1 shell.xhhow4.com
 127.0.0.1 shop.skin-safety.com
 127.0.0.1 signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
 127.0.0.1 sinera.org
@@ -2899,6 +2957,7 @@
 127.0.0.1 ad.clickdistrict.com
 127.0.0.1 ad.clickotmedia.com
 127.0.0.1 ad.dc2.adtech.de
+127.0.0.1 ad.designtaxi.com
 127.0.0.1 ad.deviantart.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.egloos.com
@@ -3067,6 +3126,7 @@
 127.0.0.1 adcentric.randomseed.com
 127.0.0.1 adcentriconline.com
 127.0.0.1 adclick.hit.gemius.pl
+127.0.0.1 adclient-af.lp.uol.com.br
 127.0.0.1 adclient.uimserv.net
 127.0.0.1 adcode.adengage.com
 127.0.0.1 adcontent.gamespy.com
@@ -3099,6 +3159,8 @@
 127.0.0.1 adgroup.naver.com
 127.0.0.1 adhearus.com
 127.0.0.1 adhese.be
+127.0.0.1 adhitzads.com
+127.0.0.1 adhref.pl
 127.0.0.1 adi.mainichi.co.jp
 127.0.0.1 adidm.idmnet.pl
 127.0.0.1 adidm.supermedia.pl
@@ -3189,6 +3251,7 @@
 127.0.0.1 admax.quisma.com
 127.0.0.1 admedia.xoom.com
 127.0.0.1 admeld.com
+127.0.0.1 admeta.vo.llnwd.net
 127.0.0.1 admin.digitalacre.com
 127.0.0.1 admin.hotkeys.com
 127.0.0.1 admin.inq.com
@@ -3242,6 +3305,7 @@
 127.0.0.1 ads.ad4game.com
 127.0.0.1 ads.adap.tv
 127.0.0.1 ads.adbrite.com
+127.0.0.1 ads.adbroker.de
 127.0.0.1 ads.adcorps.com
 127.0.0.1 ads.addesktop.com
 127.0.0.1 ads.addynamix.com
@@ -3261,6 +3325,7 @@
 127.0.0.1 ads.adsinimages.com
 127.0.0.1 ads.adsonar.com
 127.0.0.1 ads.adtegrity.net
+127.0.0.1 ads.adtiger.de
 127.0.0.1 ads.adultfriendfinder.com
 127.0.0.1 ads.adultswim.com
 127.0.0.1 ads.advance.net
@@ -3351,6 +3416,7 @@
 127.0.0.1 ads.bridgetrack.com
 127.0.0.1 ads.britishexpats.com
 127.0.0.1 ads.buscape.com.br
+127.0.0.1 ads.businessclick.com
 127.0.0.1 ads.businessweek.com
 127.0.0.1 ads.calgarysun.com
 127.0.0.1 ads.callofdutyblackopsforum.net
@@ -3422,6 +3488,7 @@
 127.0.0.1 ads.democratandchronicle.com
 127.0.0.1 ads.dennisnet.co.uk
 127.0.0.1 ads.designboom.com
+127.0.0.1 ads.designtaxi.com
 127.0.0.1 ads.desmoinesregister.com
 127.0.0.1 ads.detelefoongids.nl
 127.0.0.1 ads.developershed.com
@@ -3438,6 +3505,7 @@
 127.0.0.1 ads.doclix.com
 127.0.0.1 ads.domeus.com
 127.0.0.1 ads.dontpanicmedia.com
+127.0.0.1 ads.dothads.com
 127.0.0.1 ads.doubleviking.com
 127.0.0.1 ads.drf.com
 127.0.0.1 ads.drivelinemedia.com
@@ -3544,6 +3612,7 @@
 127.0.0.1 ads.indiatimes.com
 127.0.0.1 ads.indya.com
 127.0.0.1 ads.indystar.com
+127.0.0.1 ads.inedomedia.com
 127.0.0.1 ads.inetdirectories.com
 127.0.0.1 ads.inetinteractive.com
 127.0.0.1 ads.infi.net
@@ -3634,6 +3703,7 @@
 127.0.0.1 ads.movieweb.com
 127.0.0.1 ads.mp3searchy.com
 127.0.0.1 ads.mt.valueclick.net
+127.0.0.1 ads.mtv.uol.com.br
 127.0.0.1 ads.multimania.lycos.fr
 127.0.0.1 ads.musiccity.com
 127.0.0.1 ads.mustangworks.com
@@ -3722,6 +3792,7 @@
 127.0.0.1 ads.prisacom.com
 127.0.0.1 ads.pro-market.net
 127.0.0.1 ads.pro-market.net.edgesuite.net
+127.0.0.1 ads.profitsdeluxe.com
 127.0.0.1 ads.profootballtalk.com
 127.0.0.1 ads.program3.com
 127.0.0.1 ads.prospect.org
@@ -3793,7 +3864,6 @@
 127.0.0.1 ads.sup.com
 127.0.0.1 ads.swiftnews.com
 127.0.0.1 ads.switchboard.com
-127.0.0.1 ads.tdcanadatrust.com
 127.0.0.1 ads.teamyehey.com
 127.0.0.1 ads.technoratimedia.com
 127.0.0.1 ads.techtv.com
@@ -3820,7 +3890,7 @@
 127.0.0.1 ads.tmcs.net
 127.0.0.1 ads.tnt.tv
 127.0.0.1 ads.top-banners.com
-127.0.0.1 ads.top500.org#TOP500 SuperComputer Site
+127.0.0.1 ads.top500.org		#TOP500 SuperComputer Site
 127.0.0.1 ads.toronto.com
 127.0.0.1 ads.townhall.com
 127.0.0.1 ads.track.net
@@ -3856,6 +3926,7 @@
 127.0.0.1 ads.valuead.com
 127.0.0.1 ads.vegas.com
 127.0.0.1 ads.veloxia.com
+127.0.0.1 ads.ventivmedia.com
 127.0.0.1 ads.veoh.com
 127.0.0.1 ads.verkata.com
 127.0.0.1 ads.vesperexchange.com
@@ -4076,6 +4147,7 @@
 127.0.0.1 adscendmedia.com
 127.0.0.1 adscholar.com
 127.0.0.1 adsdaq.com
+127.0.0.1 adsearch.adkontekst.pl
 127.0.0.1 adsearch.pl
 127.0.0.1 adsearch.wp.pl
 127.0.0.1 adsentnetwork.com
@@ -4253,6 +4325,7 @@
 127.0.0.1 adserver.ision.de
 127.0.0.1 adserver.isonews.com
 127.0.0.1 adserver.ixm.co.uk
+127.0.0.1 adserver.jacotei.com.br
 127.0.0.1 adserver.janes.com
 127.0.0.1 adserver.janes.net
 127.0.0.1 adserver.janes.org
@@ -4648,6 +4721,7 @@
 127.0.0.1 at.campaigns.f2.com.au
 127.0.0.1 at.ceofreehost.com
 127.0.0.1 at.m1.nedstatbasic.net
+127.0.0.1 atemda.com
 127.0.0.1 athena-ads.wikia.com
 127.0.0.1 au.ads.link4ads.com
 127.0.0.1 au.adserver.yahoo.com
@@ -4656,10 +4730,11 @@
 127.0.0.1 auslieferung.commindo-media-ressourcen.de
 127.0.0.1 austria1.adverserve.net
 127.0.0.1 autocontext.begun.ru
-127.0.0.1 autohipnose.com #scam#
 127.0.0.1 automotive-offer.com
 127.0.0.1 automotive-rewardpath.com
 127.0.0.1 avcounter10.com
+127.0.0.1 avpa.dzone.com
+127.0.0.1 avpa.javalobby.org
 127.0.0.1 awesomevipoffers.com
 127.0.0.1 awrz.net
 127.0.0.1 azcentra.app.ur.gcion.com
@@ -4844,6 +4919,7 @@
 127.0.0.1 brandrewardcentral.com
 127.0.0.1 brandsurveypanel.com
 127.0.0.1 bravo.israelinfo.ru
+127.0.0.1 bravospots.com		
 127.0.0.1 broadent.vo.llnwd.net
 127.0.0.1 brokertraffic.com
 127.0.0.1 bs.israelinfo.ru
@@ -4859,6 +4935,7 @@
 127.0.0.1 buttons.googlesyndication.com
 127.0.0.1 buzzbox.buzzfeed.com
 127.0.0.1 bwp.lastfm.com.com
+127.0.0.1 bwp.news.com
 127.0.0.1 c.actiondesk.com
 127.0.0.1 c.adroll.com
 127.0.0.1 c.ar.msn.com
@@ -5169,6 +5246,7 @@
 127.0.0.1 cz8.clickzs.com
 127.0.0.1 d.101m3.com
 127.0.0.1 d.adnetxchange.com
+127.0.0.1 d.ads.readwriteweb.com
 127.0.0.1 d.adserve.com
 127.0.0.1 d.agkn.com
 127.0.0.1 d1.openx.org
@@ -5205,6 +5283,7 @@
 127.0.0.1 delivery.adyea.com
 127.0.0.1 delivery.trafficjunky.net
 127.0.0.1 delivery.w00tads.com
+127.0.0.1 delivery.way2traffic.com
 127.0.0.1 demr.mspaceads.com
 127.0.0.1 demr.opt.fimserve.com
 127.0.0.1 desb.mspaceads.com
@@ -5220,6 +5299,7 @@
 127.0.0.1 dgm2.com
 127.0.0.1 dgmaustralia.com
 127.0.0.1 dietoftoday.ca.pn #security risk/fake news#
+127.0.0.1 diff3.smartadserver.com
 127.0.0.1 dinoadserver1.roka.net
 127.0.0.1 dinoadserver2.roka.net
 127.0.0.1 directleads.com
@@ -5257,6 +5337,7 @@
 127.0.0.1 e0.extreme-dm.com
 127.0.0.1 e1.addthis.com
 127.0.0.1 ead.sharethis.com
+127.0.0.1 eads-adserving.com
 127.0.0.1 earnmygift.com
 127.0.0.1 earnpointsandgifts.com
 127.0.0.1 easyadservice.com
@@ -5514,6 +5595,7 @@
 127.0.0.1 go.arbopl.bbelements.com
 127.0.0.1 go.arboru.bbelements.com
 127.0.0.1 go.bb007.bbelements.com
+127.0.0.1 go.evolutionmedia.bbelements.com
 127.0.0.1 go.ihned.bbelements.com
 127.0.0.1 go.intact.bbelements.com
 127.0.0.1 go.lfstmedia.com
@@ -5562,6 +5644,7 @@
 127.0.0.1 help.adtech.us
 127.0.0.1 helpint.mywebsearch.com
 127.0.0.1 hightrafficads.com
+127.0.0.1 himediads.com
 127.0.0.1 hit4.hotlog.ru
 127.0.0.1 hk.adserver.yahoo.com
 127.0.0.1 hlcc.ca
@@ -5655,6 +5738,7 @@
 127.0.0.1 img-a2.ak.imagevz.net
 127.0.0.1 img-cdn.mediaplex.com
 127.0.0.1 img.blogads.com
+127.0.0.1 img.directtrack.com
 127.0.0.1 img.layer-ads.de
 127.0.0.1 img.sn00.net
 127.0.0.1 img.soulmate.com
@@ -5760,6 +5844,7 @@
 127.0.0.1 js.adscale.de
 127.0.0.1 js.adserverpub.com
 127.0.0.1 js.adsonar.com
+127.0.0.1 js.himediads.com
 127.0.0.1 js.hotkeys.com
 127.0.0.1 js.selectornews.com
 127.0.0.1 js.smi2.ru
@@ -6001,6 +6086,7 @@
 127.0.0.1 my-reward-channel.com
 127.0.0.1 my-rewardsvault.com
 127.0.0.1 my.blueadvertise.com
+127.0.0.1 myao.adocean.pl
 127.0.0.1 mycashback.co.uk
 127.0.0.1 mycelloffer.com
 127.0.0.1 mychoicerewards.com
@@ -6149,6 +6235,8 @@
 127.0.0.1 ox-d.hbr.org
 127.0.0.1 ox-d.hulkshare.com
 127.0.0.1 ox-d.hypeads.org
+127.0.0.1 ox-d.zenoviagroup.com
+127.0.0.1 ox-i.zenoviagroup.com
 127.0.0.1 ox.eurogamer.net
 127.0.0.1 oz.valueclick.com
 127.0.0.1 oz.valueclick.ne.jp
@@ -6157,6 +6245,7 @@
 127.0.0.1 p.profistats.net
 127.0.0.1 p.publico.es
 127.0.0.1 p0rnuha.com
+127.0.0.1 p1.adhitzads.com
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead1.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
@@ -6242,13 +6331,16 @@
 127.0.0.1 pl.bbelements.com
 127.0.0.1 plasmatv4free.com
 127.0.0.1 plasmatvreward.com
+127.0.0.1 playlink.pl
 127.0.0.1 playtime.tubemogul.com
+127.0.0.1 pmstrk.mercadolivre.com.br
 127.0.0.1 pntm-images.adbureau.net
 127.0.0.1 pntm.adbureau.net
 127.0.0.1 pol.bbelements.com
 127.0.0.1 politicalopinionsurvey.com
 127.0.0.1 popadscdn.net
 127.0.0.1 popclick.net
+127.0.0.1 poponclick.com
 127.0.0.1 popunder.adsrevenue.net
 127.0.0.1 popunder.paypopup.com
 127.0.0.1 popup.matchmaker.com
@@ -6318,7 +6410,7 @@
 127.0.0.1 re.kontera.com
 127.0.0.1 realads.realmedia.com
 127.0.0.1 realgfsbucks.com
-127.0.0.1 realmedia-a800.d4p.net# Scientific American
+127.0.0.1 realmedia-a800.d4p.net	# Scientific American
 127.0.0.1 realmedia.advance.net
 127.0.0.1 recreation-leisure-rewardpath.com
 127.0.0.1 red.as-eu.falkag.net
@@ -6386,6 +6478,7 @@
 127.0.0.1 rp.hit.gemius.pl
 127.0.0.1 rscounter10.com
 127.0.0.1 rsense-ad.realclick.co.kr
+127.0.0.1 rss.buysellads.com
 127.0.0.1 rt2.infolinks.com
 127.0.0.1 rt3.infolinks.com
 127.0.0.1 rtb.pclick.yahoo.com
@@ -6398,6 +6491,7 @@
 127.0.0.1 rya.rockyou.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.as-us.falkag.net
+127.0.0.1 s.atemda.com
 127.0.0.1 s.boom.ro
 127.0.0.1 s.clicktale.net
 127.0.0.1 s.di.com.pl
@@ -6408,6 +6502,7 @@
 127.0.0.1 s0b.bluestreak.com
 127.0.0.1 s1.buysellads.com
 127.0.0.1 s1.cz.adocean.pl
+127.0.0.1 s1.gratkapl.adocean.pl
 127.0.0.1 s2.buysellads.com
 127.0.0.1 s2.youtube.com
 127.0.0.1 s3.buysellads.com
@@ -6549,6 +6644,7 @@
 127.0.0.1 smartcontext.pl
 127.0.0.1 smartinit.webads.nl
 127.0.0.1 smile.modchipstore.com
+127.0.0.1 smm.sitescout.com
 127.0.0.1 smokersopinionpoll.com
 127.0.0.1 smsmovies.net
 127.0.0.1 sn.baventures.com
@@ -6611,6 +6707,7 @@
 127.0.0.1 static.2mdn.net
 127.0.0.1 static.admaximize.com
 127.0.0.1 static.adsonar.com
+127.0.0.1 static.adtaily.pl
 127.0.0.1 static.adzerk.net
 127.0.0.1 static.aff-landing-tmp.foxtab.com
 127.0.0.1 static.clicktorrent.info
@@ -6628,6 +6725,7 @@
 127.0.0.1 static.pulse360.com
 127.0.0.1 static.scanscout.com
 127.0.0.1 static.vpptechnologies.com
+127.0.0.1 static.way2traffic.com
 127.0.0.1 static1.influads.com
 127.0.0.1 staticads.btopenworld.com
 127.0.0.1 staticb.mydirtyhobby.com
@@ -6893,6 +6991,7 @@
 127.0.0.1 www.7cnbcnews.com
 127.0.0.1 www.805m.com
 127.0.0.1 www.888casino.com
+127.0.0.1 www.888poker.com
 127.0.0.1 www.961.com
 127.0.0.1 www.a.websponsors.com
 127.0.0.1 www.abrogatesdv.info
@@ -6951,6 +7050,7 @@
 127.0.0.1 www.adspics.com
 127.0.0.1 www.adstogo.com
 127.0.0.1 www.adstreams.org
+127.0.0.1 www.adtaily.pl
 127.0.0.1 www.adtechus.com
 127.0.0.1 www.adtlgc.com
 127.0.0.1 www.adtrader.com
@@ -7277,7 +7377,7 @@
 127.0.0.1 www.incentiverewardcenter.com
 127.0.0.1 www.inckamedia.com
 127.0.0.1 www.indiads.com
-127.0.0.1 www.infinite-ads.com# www.shareactor.com
+127.0.0.1 www.infinite-ads.com		# www.shareactor.com
 127.0.0.1 www.ins-offer.com
 127.0.0.1 www.insurance-rewardpath.com
 127.0.0.1 www.intela.com
@@ -7394,6 +7494,7 @@
 127.0.0.1 www.plasmatv4free.com
 127.0.0.1 www.plasmatvreward.com
 127.0.0.1 www.politicalopinionsurvey.com
+127.0.0.1 www.poponclick.com
 127.0.0.1 www.popupad.net
 127.0.0.1 www.popupdomination.com
 127.0.0.1 www.popuptraffic.com
@@ -7555,7 +7656,7 @@
 127.0.0.1 www.worry-free-savings.com
 127.0.0.1 www.wppluginspro.com
 127.0.0.1 www.wtp101.com
-127.0.0.1 www.xbn.ru# exclusive banner network (Russian)
+127.0.0.1 www.xbn.ru		# exclusive banner network (Russian)
 127.0.0.1 www.yceml.net
 127.0.0.1 www.yibaruxet.cn
 127.0.0.1 www.yieldmanager.net
@@ -7626,6 +7727,7 @@
 127.0.0.1 www4.ad.tomshardware.com
 127.0.0.1 www4.bannerspace.com
 127.0.0.1 www4.glam.com
+127.0.0.1 www4.smartadserver.com
 127.0.0.1 www5.ad.tomshardware.com
 127.0.0.1 www5.bannerspace.com
 127.0.0.1 www6.ad.tomshardware.com
@@ -9762,7 +9864,8 @@
 #  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
 #  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
 #  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
-#  Marschall, Michael Tompkins, and Michael O'Donnell for helping to build 
+#  Marschall, Michael Tompkins, Michael O'Donnell, and Jos&eacute; Lucas Teixeira
+#  de Oliveira for helping to build 
 #  the hosts file.
 # Russell O'Connor for OS/2 information
 # kwadronaut for Windows 7 and Vista information
