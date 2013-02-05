@@ -1,0 +1,14 @@
+#source this file
+#Need binary: curl
+#Need: to set up local repo to have a "dist" branch that is not customised
+
+rssfeed="http://someonewhocares.org/hosts/hosts.rss"
+
+git checkout dist
+
+cat test/sample2.rss | lua get-rss-age.lua | read -r pubdate
+#curl "$rssfeed" | lua get-rss-age.lua | read -r pubdate
+
+test $? = 0 || return 1
+
+git shortlog | grep -e "$pubdate" 

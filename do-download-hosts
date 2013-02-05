@@ -6,6 +6,7 @@ if git diff --exit-code -- host
   then	
 	curl http://someonewhocares.org/hosts/hosts > hosts
 	git add hosts
+	return 0
   else
 	echo "Won't clobber hosts while it differs from dist's index"
 	return 1
