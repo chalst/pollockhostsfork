@@ -1,9 +1,22 @@
 #!/bin/sh
 
-echo "(1) Check that rss feed's last date isn't already in shortlog"
-. ./do-check-rss-date || exit 1
-echo "Last date: $pubdate"
+hostsurl="http://someonewhocares.org/hosts/hosts"
+rssfeed="http://someonewhocares.org/hosts/hosts.rss"
 
-# (2) Switch to 'dist', download & git-add hosts file
-. ./do-download-hosts || exit 1
+echo "(1) Checkout branch dist"
+#Can I test to see if branch dist exists?  Maybe `git branch | grep ^dist\$`?
+git checkout dist || exit 1
+
+echo "(2) Get rss feed's last date (pubdate)"
+. ./do-set-pubdate.sh || exit 1
+
+echo "(3) Check pubdate not in shortlog; generate commitmsg" 
+. ./do-check-shortlog.sh || exit 1
+
+echo "(4) download hosts, git-add it"
+. ./do-download-hosts.sh || exit 1
+
+echo "(5) git commit -m '$commitmsg'"
+git commit -m '$commitmsg'
+
 
