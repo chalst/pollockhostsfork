@@ -1,7 +1,7 @@
 #!/bin/sh
 
-hostsurl="http://someonewhocares.org/hosts/hosts"
-rssfeed="http://someonewhocares.org/hosts/hosts.rss"
+export hostsurl="http://someonewhocares.org/hosts/hosts"
+export rssfeed="http://someonewhocares.org/hosts/rss.xml"
 
 echo "(1) Checkout branch dist"
 #Can I test to see if branch dist exists?  Maybe `git branch | grep ^dist\$`?
