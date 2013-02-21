@@ -16,7 +16,7 @@ echo "(3) Check pubdate not in shortlog; generate commitmsg"
 echo "(4) download hosts, git-add it"
 . ./do-download-hosts.sh || exit 1
 
-echo "(5) git commit -m '$commitmsg'"
-git commit -m '$commitmsg'
+echo "(5) git commit -m \"$commitmsg\""
+git commit -m "$commitmsg"
 
 
