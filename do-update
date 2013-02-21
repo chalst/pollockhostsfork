@@ -1,0 +1,22 @@
+#!/bin/sh
+
+export hostsurl="http://someonewhocares.org/hosts/hosts"
+export rssfeed="http://someonewhocares.org/hosts/rss.xml"
+
+echo "(1) Checkout branch dist"
+#Can I test to see if branch dist exists?  Maybe `git branch | grep ^dist\$`?
+git checkout dist || exit 1
+
+echo "(2) Get rss feed's last date (pubdate)"
+. ./do-set-pubdate.sh || exit 1
+
+echo "(3) Check pubdate not in shortlog; generate commitmsg" 
+. ./do-check-shortlog.sh || exit 1
+
+echo "(4) download hosts, git-add it"
+. ./do-download-hosts.sh || exit 1
+
+echo "(5) git commit -m \"$commitmsg\""
+git commit -m "$commitmsg"
+
+
